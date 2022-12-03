@@ -50,7 +50,7 @@ approachBFS = {
 }
 
 */
-
+/*
         Node* head = NULL; //head of the next level
         Node* prev = NULL; //the leading node on the next level
         Node* cur = root;  //current node of current level
@@ -84,9 +84,56 @@ approachBFS = {
     return root ;
     }
 };  
-/*
 approachHeadPrev = {
     TimeComplexity = O(n),
     SpaceComplexity =O(1)
 };
 */
+
+  if ( !root ) {
+        return root;
+  }
+        Node* cur = root;
+        Node* Head = new Node(0);
+        Node* prev = Head;
+        while ( cur ) {
+            if ( cur->left ) {
+                prev->next = cur->left;
+                prev = prev->next;
+            }
+            if ( cur->right ) {
+                prev->next = cur->right;
+                prev = prev->next;
+            }
+            if (cur->next ) {
+                cur = cur->next;
+            }
+            else {
+                cur = Head->next;
+                Head->next = NULL;
+                prev = Head;
+            }
+        }
+
+return root;
+}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
