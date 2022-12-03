@@ -43,7 +43,7 @@ approach1Complexity = {
 Note :  Implicit  Stack considered for SpaceComplexity
  Approach 1 == Recusrion ==================================End =============================*/
 
-/*Approach 2 === Stack + Iteration=========================Start ========================*/
+/*Approach 2 === Stack + Iteration=========================Start ========================
  class Solution {
 public:
     vector<int>inOrder;
@@ -67,12 +67,54 @@ public:
     }  
  };
 
-/*approach2Complexity = {
+approach2Complexity = {
        TimeComplexity = O(n),
        SpaceComplexity = O(n) for Skewed Trees  
 };
 Approach 2 ======Stack + Iteration ====================End =========================*/  
 
+/*Approach 3 ====  Morris's InOrder Traversal =============Start======================
+*/
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode* root) {
+         if ( !root ) {
+             return { };
+         }
+         vector<int>inOrder;
+     TreeNode* cur = root;
+          while ( cur ) {
+               if ( cur->left ) {
+                   TreeNode * pre = cur->left;
+                   while (pre->right && pre->right != cur ) {
+                         pre = pre->right;
+                   }
+                   if ( !pre->right ) {
+                       pre->right = cur;
+                         cur = cur->left;
+                   } 
+                   else {
+                         pre->right = NULL; // back to Original Tree Structure
+                        inOrder.push_back(cur->val);
+                          cur = cur->right;
+                   }
+                   
+               } else {
+                   
+                   inOrder.push_back(cur->val);
+                     cur = cur->right;
+               }
+          }
+     return inOrder; 
+    }
+}; 
+    
+/*
+approach3Complexity = {
+       TimeComplexity = O(n),
+       SpaceComplexity = O(1)
+};
+Approach3 =========Morris's InOrder Traversal =============End========================*/
 
 
 
