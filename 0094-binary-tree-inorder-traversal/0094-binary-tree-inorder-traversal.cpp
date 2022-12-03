@@ -73,8 +73,7 @@ approach2Complexity = {
 };
 Approach 2 ======Stack + Iteration ====================End =========================*/  
 
-/*Approach 3 ====  Morris's InOrder Traversal =============Start======================
-*/
+/*Approach 3 ====  Morris's InOrder Traversal =============Start======================*/
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
@@ -108,9 +107,7 @@ public:
      return inOrder; 
     }
 }; 
-    
-/*
-approach3Complexity = {
+/*approach3Complexity = {
        TimeComplexity = O(n),
        SpaceComplexity = O(1)
 };
