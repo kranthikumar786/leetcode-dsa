@@ -46,7 +46,7 @@ public:
 
 approachBFS = {
      TimeComplexity = O(n),
-     SpaceComplexity = O(pow(2,1)-1) for Perfect Binary Tree
+     SpaceComplexity = O(pow(2,h)-1) for Perfect Binary Tree
 }
 
 */
