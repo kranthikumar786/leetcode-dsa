@@ -10,6 +10,10 @@
  * };
  */
 /* approach1 ===== Recusrion ===== Start =====
+approach1:
+  -> first visit root node 
+  -> then first left child then right child vist
+  -> do above steps Recursively to root becomes NULL
 class Solution {
 public:
       vector<int>Pre;
@@ -118,13 +122,3 @@ approach3 ==== Morris PreOrder Traversal ========== End ========== */
  Happy Coding !!!.
 return findHelpFul ? pleaseUpVote : pleaseProvideCommentsForImprovements;
 */
-
-
-
-
-
-
-
-
-
-
