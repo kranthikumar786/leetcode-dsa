@@ -34,6 +34,11 @@ Note : implicit Stack Space Considerd
 
  approach1 ====== Recusrion =======End=========*/
 
+/* approach2 ==== Iterativ + Stack ========== Start ==========
+ Approach2:
+      -> First Visit root node then go for childrens if exists:
+      -> Here traversing right child first then left child becuase of Stack Data Structure Behaviour in terms of push(),pop()
+      -> do iteratively above to steps till storeChildrens Stack empty()    
 class Solution {
 public:
       vector<int>Pre;
@@ -59,6 +64,43 @@ vector<int> preorderTraversal(TreeNode* root) {
        return Pre;  
     }
 };
+approach2Complexity = {
+      TimeComplexity = O(n),
+      SpaceComplexity = O(n)  for Skewed Trees
+};
+/* approach2 ==== Iterativ + Stack ========== End ==========
+*/
+
+class Solution {
+public:
+    vector<int>Pre;
+    vector<int> preorderTraversal(TreeNode* root) {
+          if ( !root ){
+               return Pre;
+          }
+        while ( root ) {
+            if ( root -> left ) {
+                TreeNode* prece = root -> left;
+                while ( prece -> right &&  prece -> right != root) {
+                    prece = prece -> right;
+                }
+                if ( !prece -> right ) {
+                    prece -> right = root;
+                    Pre.push_back(root -> val);
+                    root = root -> left;
+                } else {
+                    prece -> right = NULL;
+                    root = root -> right;
+                }
+            } else {
+                Pre.push_back(root -> val);
+                root = root -> right;
+            }
+        }
+        return Pre;
+    }
+};
+
 
 
 
