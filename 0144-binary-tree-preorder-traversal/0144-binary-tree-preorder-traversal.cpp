@@ -68,9 +68,14 @@ approach2Complexity = {
       TimeComplexity = O(n),
       SpaceComplexity = O(n)  for Skewed Trees
 };
-/* approach2 ==== Iterativ + Stack ========== End ==========
-*/
+ approach2 ==== Iterativ + Stack ========== End ==========*/
 
+/*approach3 ==== Morris PreOrder Traversal ========== Start ==========
+  approah3 :
+      -> connect the rightside childrens first without lose
+      -> visit root val
+      -> then move to left child
+*/
 class Solution {
 public:
     vector<int>Pre;
@@ -100,6 +105,25 @@ public:
         return Pre;
     }
 };
+
+/*
+approach3Complexity = {
+       TimeComplexity  = O(n),
+       SpaceComplexity = O(1)
+};
+
+approach3 ==== Morris PreOrder Traversal ========== End ========== */
+/*
+ Thank You.
+ Happy Coding !!!.
+return findHelpFul ? pleaseUpVote : pleaseProvideCommentsForImprovements;
+*/
+
+
+
+
+
+
 
 
 
