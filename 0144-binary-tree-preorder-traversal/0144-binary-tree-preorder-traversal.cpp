@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+/* approach1 ===== Recusrion ===== Start =====
 class Solution {
 public:
       vector<int>Pre;
@@ -25,3 +26,39 @@ public:
        return Pre;  
     }
 };
+approach1 = {
+      TimeComplexity = O(n),
+      SpaceComplexity = O(n) 
+};
+Note : implicit Stack Space Considerd
+
+ approach1 ====== Recusrion =======End=========*/
+
+class Solution {
+public:
+      vector<int>Pre;
+vector<int> preorderTraversal(TreeNode* root) {
+         if ( !root ){
+              return Pre;
+         }
+        stack<TreeNode*>storeChildrens;
+         storeChildrens.push(root);
+        while ( !storeChildrens.empty()) {
+                 TreeNode* node = storeChildrens.top();
+                   storeChildrens.pop();
+                 if ( node ) {
+                     Pre.push_back(node->val);  
+                 }
+                 if ( node->right ) {
+                     storeChildrens.push( node->right );
+                 }
+                 if ( node->left ) {
+                      storeChildrens.push( node->left );
+                 }
+             }
+       return Pre;  
+    }
+};
+
+
+
