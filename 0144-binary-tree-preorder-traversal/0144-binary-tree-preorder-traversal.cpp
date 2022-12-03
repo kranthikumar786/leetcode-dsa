@@ -121,4 +121,6 @@ approach3 ==== Morris PreOrder Traversal ========== End ========== */
  Thank You.
  Happy Coding !!!.
 return findHelpFul ? pleaseUpVote : pleaseProvideCommentsForImprovements;
+
+https://leetcode.com/problems/binary-tree-preorder-traversal/discuss/2874355/C%2B%2B-oror-Easy-oror-3-Approaches
 */
