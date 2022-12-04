@@ -15,8 +15,8 @@ public:
         if ( !root ){
               return { };
         }
-          vector<int>Post;
-        stack <TreeNode*> st;
+         vector<int>Post; 
+        /*(stack <TreeNode*> st;
         st.push(root);
          while ( !st.empty() ){
               TreeNode* node = st.top();
@@ -32,6 +32,34 @@ public:
               }
          }
         reverse(Post.begin(),Post.end());
+        */
+        
+         TreeNode * cur = root;
+           while ( cur ) {
+               
+                if( cur->right ) {
+                    
+                     TreeNode * prece = cur->right;
+                      
+                     while ( prece->left && prece ->left != cur ){
+                               prece = prece->left;
+                     }
+                      if ( prece->left) {
+                          prece ->left = NULL ;
+                           cur = cur->left;
+                      }
+                    else {
+                        
+                         Post.push_back(cur->val);
+                          prece ->left = cur;
+                          cur = cur->right;
+                    }
+                } else {
+                        Post.push_back(cur->val);
+                         cur = cur->left;
+                }
+           }
+          reverse(Post.begin(), Post.end());
         return Post;
     }
 };
