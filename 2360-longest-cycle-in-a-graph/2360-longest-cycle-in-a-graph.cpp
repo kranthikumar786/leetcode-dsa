@@ -65,7 +65,7 @@ public:
 /*
 approach2Complexity = {
        TimeComplexity = O(V),
-       SpaceComplexity = O(1)
+       SpaceComplexity = O(V)
 };
 
 */
