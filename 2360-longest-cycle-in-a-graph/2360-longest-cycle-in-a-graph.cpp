@@ -77,6 +77,14 @@ approach2Complexity = {
 3) some time you don't need to convert given input into adjlist or adjMatrxi be clear with input format 
 4)  
   */
+
+/*
+approach3
+   using concept of khans' algo + kind of topological sort
+   after applying topological sort in visited array only cycle will be exist :
+    so find max length cycle 
+*/
+
 class Solution {
 public:
   int longestCycle(vector<int>& edges) {
