@@ -21,7 +21,7 @@
  */
 class Solution {
 public:
-    vector<int>a;
+   /* vector<int>a;
     void dfs(ListNode* head) {
         while ( head) {
             a.push_back(head->val);
@@ -41,9 +41,34 @@ public:
         node->left = T(a,l,m-1);
         node->right = T(a,m+1, h);
         return node;
+    }*/
+    
+    TreeNode * fn(ListNode * head ) {
+            if ( !head ) {
+                 return NULL;
+            }
+            if ( !head->next ) {
+                 return new TreeNode(head->val);
+            }
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = NULL;
+         while ( fast && fast->next ) {
+             prev = slow;
+             slow = slow->next;
+             fast = fast->next->next;
+             }
+         prev->next = NULL;
+        TreeNode* node = new TreeNode(slow->val);
+        node->left = fn(head);
+        node->right = fn(slow->next);
+        return node;
     }
     TreeNode* sortedListToBST(ListNode* head) {
-          dfs(head);
+         /* dfs(head);
          return T(a,0,a.size()-1);
-    }
+         */
+        
+        return fn( head );
+   }
 };
