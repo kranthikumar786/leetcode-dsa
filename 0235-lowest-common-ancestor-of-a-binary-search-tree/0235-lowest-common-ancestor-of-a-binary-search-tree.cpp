@@ -21,6 +21,21 @@ public:
         
         */
         
+        if ( !root || root == p || root == q) {
+             return root;
+        }
+        
+        if( root->val < p->val && root->val < q->val) {
+              return lowestCommonAncestor(root->right,p,q);
+        }
+        
+        if (root->val > p->val && root->val > q->val) {
+            return lowestCommonAncestor(root->left,p,q);
+        }
+        return root;
+    
+    //}
+      /*  
        TreeNode * cur = root;
          while ( cur ){
              if (cur->val > p->val && cur->val > q->val) {
@@ -34,5 +49,6 @@ public:
              }
          }
         return cur;
+        */
     }
 };
