@@ -37,12 +37,14 @@ class Solution {
 public:
      TreeNode* deleteNode(TreeNode* root, int key) {
         if(root) 
-            if(key < root->val) root->left = deleteNode(root->left, key);    
-            else if(key > root->val) root->right = deleteNode(root->right, key);       
+            if(key < root->val) 
+                root->left = deleteNode(root->left, key);    
+            else if(key > root->val) 
+                root->right = deleteNode(root->right, key);       
             else {
                 if(!root->left && !root->right) return NULL;          
                 if (!root->left || !root->right)
-                    return root->left ? root->left : root->right;                                              
+                    return root->left ? root->left : root->right;                                            
                 TreeNode* t = root->left;                        
                 while( t->right ) 
                       t = t->right;     
@@ -51,3 +53,16 @@ public:
             }
         return root;
     }   };
+
+/*
+
+
+Complexity = {
+        TimeComplexity = O(n) (Skewed Trees),
+        SpaceComplexity =O(n) Stack for Skewed Trees
+};
+Thank You.
+Happy Coding!!!
+return findHelpFul ? pleaseUpvote : pleaseProvideCommentsForImprovements;
+https://leetcode.com/problems/delete-node-in-a-bst/discuss/2954952/C%2B%2B-oror-PostOrder-oror-easy
+*/
