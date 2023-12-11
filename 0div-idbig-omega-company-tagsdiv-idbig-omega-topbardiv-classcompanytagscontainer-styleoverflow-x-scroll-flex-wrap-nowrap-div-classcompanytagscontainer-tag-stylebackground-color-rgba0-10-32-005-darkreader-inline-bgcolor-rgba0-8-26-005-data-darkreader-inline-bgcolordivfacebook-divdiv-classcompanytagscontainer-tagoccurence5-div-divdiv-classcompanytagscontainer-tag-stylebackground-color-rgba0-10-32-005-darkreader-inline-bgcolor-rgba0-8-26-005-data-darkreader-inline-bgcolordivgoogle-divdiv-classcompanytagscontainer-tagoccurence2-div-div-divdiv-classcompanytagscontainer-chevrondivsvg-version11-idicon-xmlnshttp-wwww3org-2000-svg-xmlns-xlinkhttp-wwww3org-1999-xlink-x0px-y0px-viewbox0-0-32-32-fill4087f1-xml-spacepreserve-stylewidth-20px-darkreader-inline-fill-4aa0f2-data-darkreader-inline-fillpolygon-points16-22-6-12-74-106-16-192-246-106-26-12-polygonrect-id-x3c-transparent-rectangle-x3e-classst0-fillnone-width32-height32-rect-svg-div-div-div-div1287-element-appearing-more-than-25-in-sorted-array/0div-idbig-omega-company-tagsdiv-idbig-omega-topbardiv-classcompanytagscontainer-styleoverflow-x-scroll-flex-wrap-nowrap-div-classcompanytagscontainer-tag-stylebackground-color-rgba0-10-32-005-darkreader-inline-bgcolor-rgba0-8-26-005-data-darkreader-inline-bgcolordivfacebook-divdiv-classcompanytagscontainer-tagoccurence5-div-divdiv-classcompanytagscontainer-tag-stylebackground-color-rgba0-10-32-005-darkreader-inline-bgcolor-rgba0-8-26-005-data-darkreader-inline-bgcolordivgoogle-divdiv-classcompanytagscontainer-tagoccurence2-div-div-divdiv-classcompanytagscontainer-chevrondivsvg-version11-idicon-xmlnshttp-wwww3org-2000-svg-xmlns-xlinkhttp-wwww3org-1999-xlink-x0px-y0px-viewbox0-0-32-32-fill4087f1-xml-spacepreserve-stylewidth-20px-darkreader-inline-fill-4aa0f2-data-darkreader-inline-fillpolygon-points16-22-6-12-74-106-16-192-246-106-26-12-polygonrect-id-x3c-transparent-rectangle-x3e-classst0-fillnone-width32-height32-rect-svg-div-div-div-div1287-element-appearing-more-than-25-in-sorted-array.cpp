@@ -21,7 +21,7 @@ public:
         */
         
     
-        for(int i = 0 ; i < n ; i++) {
+      /*  for(int i = 0 ; i < n ; i++) {
             
             int left =lower_bound(arr.begin(),arr.end(),arr[i])-arr.begin();
             int right = upper_bound(arr.begin(),arr.end(),arr[i])-arr.begin()-1;
@@ -32,10 +32,24 @@ public:
          }   
             
         }
+        
        return -1; 
+        */
+      
+        unordered_map<int,int>um;
         
+        for(int value : arr) {
+            um[value]++;
+        }
+      
+        for(auto itr : um){
+            
+            if(itr.second > target) {
+                 return itr.first;
+            }
+        }
         
-        
+        return -1;
         
         /*
      1.   
