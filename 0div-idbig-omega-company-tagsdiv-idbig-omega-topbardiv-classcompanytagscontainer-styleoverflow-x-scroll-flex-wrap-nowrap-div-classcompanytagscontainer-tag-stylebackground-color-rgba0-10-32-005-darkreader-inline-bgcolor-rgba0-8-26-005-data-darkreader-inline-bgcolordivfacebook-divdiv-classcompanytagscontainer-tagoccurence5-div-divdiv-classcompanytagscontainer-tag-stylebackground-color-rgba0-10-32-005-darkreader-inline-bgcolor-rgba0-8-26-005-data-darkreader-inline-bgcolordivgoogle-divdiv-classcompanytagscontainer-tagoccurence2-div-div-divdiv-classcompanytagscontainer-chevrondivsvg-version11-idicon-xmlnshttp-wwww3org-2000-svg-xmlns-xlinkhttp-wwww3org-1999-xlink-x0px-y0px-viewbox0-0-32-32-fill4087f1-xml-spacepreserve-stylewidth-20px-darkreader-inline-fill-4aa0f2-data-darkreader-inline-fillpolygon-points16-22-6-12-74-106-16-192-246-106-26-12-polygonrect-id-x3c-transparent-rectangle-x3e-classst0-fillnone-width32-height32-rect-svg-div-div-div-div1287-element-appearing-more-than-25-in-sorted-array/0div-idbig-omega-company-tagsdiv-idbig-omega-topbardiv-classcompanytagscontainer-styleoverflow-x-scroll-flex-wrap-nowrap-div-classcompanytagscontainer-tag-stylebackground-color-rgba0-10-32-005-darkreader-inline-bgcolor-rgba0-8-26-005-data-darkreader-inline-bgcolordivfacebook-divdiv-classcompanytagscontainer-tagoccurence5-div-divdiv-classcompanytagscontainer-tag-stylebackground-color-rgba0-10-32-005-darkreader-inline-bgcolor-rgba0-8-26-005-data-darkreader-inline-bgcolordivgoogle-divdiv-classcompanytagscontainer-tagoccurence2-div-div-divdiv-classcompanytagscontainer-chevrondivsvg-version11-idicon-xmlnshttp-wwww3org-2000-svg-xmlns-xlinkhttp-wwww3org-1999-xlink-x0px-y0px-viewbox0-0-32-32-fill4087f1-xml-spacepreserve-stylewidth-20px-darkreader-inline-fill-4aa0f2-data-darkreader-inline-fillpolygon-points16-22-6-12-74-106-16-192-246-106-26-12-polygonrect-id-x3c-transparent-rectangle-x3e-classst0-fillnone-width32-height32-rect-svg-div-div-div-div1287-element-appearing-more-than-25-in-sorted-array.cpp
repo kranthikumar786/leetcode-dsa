@@ -1,7 +1,25 @@
 class Solution {
 public:
     int findSpecialInteger(vector<int>& arr) {
-   
+       int  n  = arr.size();
+       int  target = n/4;
+        
+        for(int i = 0 ; i < n ; i++) { 
+               int count  = 0 ;
+            for( int j  = 0 ; j < n ; j++) {
+               
+                if(arr[i] == arr[j]) {
+                      count++;
+                }
+           }
+           if(count > target) {
+                 return  arr[i];
+           } 
+        }
+      
+        return -1;
+        
+        
         /*
      1.   
         count of an element > n/4 then return that value since it is only single value exist in array.
@@ -37,7 +55,7 @@ public:
     }  
         return -1;
     
-    */
+   
      int n = arr.size();
      vector<int>candidates ={arr[n/4] , arr[n/2] , arr[3*n/4]};
        
@@ -52,6 +70,7 @@ public:
             }
         }
        return -1; 
+        */
     }
     
 };
