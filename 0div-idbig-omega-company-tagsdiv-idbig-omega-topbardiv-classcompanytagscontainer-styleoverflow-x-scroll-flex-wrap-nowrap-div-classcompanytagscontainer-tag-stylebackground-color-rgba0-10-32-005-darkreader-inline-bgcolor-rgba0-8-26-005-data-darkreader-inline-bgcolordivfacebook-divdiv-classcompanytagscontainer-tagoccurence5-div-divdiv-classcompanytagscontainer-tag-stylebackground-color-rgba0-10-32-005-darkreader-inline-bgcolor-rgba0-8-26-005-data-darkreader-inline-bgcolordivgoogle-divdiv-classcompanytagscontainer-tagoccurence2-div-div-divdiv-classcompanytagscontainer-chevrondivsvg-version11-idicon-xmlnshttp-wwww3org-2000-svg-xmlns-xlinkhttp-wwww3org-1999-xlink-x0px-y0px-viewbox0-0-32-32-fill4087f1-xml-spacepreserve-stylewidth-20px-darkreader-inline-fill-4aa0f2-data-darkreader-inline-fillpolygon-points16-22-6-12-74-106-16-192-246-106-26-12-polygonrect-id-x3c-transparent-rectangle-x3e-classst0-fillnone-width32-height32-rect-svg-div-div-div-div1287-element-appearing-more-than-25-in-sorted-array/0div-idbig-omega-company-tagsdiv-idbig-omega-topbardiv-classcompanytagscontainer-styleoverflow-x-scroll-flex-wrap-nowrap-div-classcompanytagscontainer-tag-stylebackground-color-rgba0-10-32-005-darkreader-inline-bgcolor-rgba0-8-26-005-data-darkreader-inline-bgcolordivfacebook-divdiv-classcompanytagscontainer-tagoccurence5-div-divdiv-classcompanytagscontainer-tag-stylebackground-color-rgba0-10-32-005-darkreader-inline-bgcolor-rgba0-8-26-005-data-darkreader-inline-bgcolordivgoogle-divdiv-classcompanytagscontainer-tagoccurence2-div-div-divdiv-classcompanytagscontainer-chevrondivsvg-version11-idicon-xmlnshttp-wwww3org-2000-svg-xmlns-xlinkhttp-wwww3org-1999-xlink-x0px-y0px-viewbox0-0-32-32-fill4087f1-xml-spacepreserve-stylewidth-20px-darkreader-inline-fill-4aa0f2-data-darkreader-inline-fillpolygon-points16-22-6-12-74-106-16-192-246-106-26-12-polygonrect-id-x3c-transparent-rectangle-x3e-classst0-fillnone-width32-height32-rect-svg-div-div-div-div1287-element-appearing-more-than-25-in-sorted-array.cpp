@@ -1,8 +1,8 @@
 class Solution {
 public:
     int findSpecialInteger(vector<int>& arr) {
-       int  n  = arr.size();
-       int  target = n/4;
+      // int  n  = arr.size();
+      // int  target = n/4;
      /*   
         for(int i = 0 ; i < n ; i++) { 
                int count  = 0 ;
@@ -52,7 +52,7 @@ public:
         
         return -1;
         */
-        
+        /*
         unordered_map<int,int>um;
         for(int value : arr) {
             um[value]++;
@@ -62,7 +62,7 @@ public:
             
         }
        return -1; 
-        
+        */
         /*
      1.   
         count of an element > n/4 then return that value since it is only single value exist in array.
@@ -98,7 +98,7 @@ public:
     }  
         return -1;
     
-   
+   */
      int n = arr.size();
      vector<int>candidates ={arr[n/4] , arr[n/2] , arr[3*n/4]};
        
@@ -113,7 +113,12 @@ public:
             }
         }
        return -1; 
-        */
+
     }
     
 };
+
+/*
+
+https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/discuss/4389501/5-Ways-oror-Easy-ororBruteForce-(n*n)-oror-HashSet-oror-BinarySearchoror-slidingWindowororC%2B%2B
+*/
