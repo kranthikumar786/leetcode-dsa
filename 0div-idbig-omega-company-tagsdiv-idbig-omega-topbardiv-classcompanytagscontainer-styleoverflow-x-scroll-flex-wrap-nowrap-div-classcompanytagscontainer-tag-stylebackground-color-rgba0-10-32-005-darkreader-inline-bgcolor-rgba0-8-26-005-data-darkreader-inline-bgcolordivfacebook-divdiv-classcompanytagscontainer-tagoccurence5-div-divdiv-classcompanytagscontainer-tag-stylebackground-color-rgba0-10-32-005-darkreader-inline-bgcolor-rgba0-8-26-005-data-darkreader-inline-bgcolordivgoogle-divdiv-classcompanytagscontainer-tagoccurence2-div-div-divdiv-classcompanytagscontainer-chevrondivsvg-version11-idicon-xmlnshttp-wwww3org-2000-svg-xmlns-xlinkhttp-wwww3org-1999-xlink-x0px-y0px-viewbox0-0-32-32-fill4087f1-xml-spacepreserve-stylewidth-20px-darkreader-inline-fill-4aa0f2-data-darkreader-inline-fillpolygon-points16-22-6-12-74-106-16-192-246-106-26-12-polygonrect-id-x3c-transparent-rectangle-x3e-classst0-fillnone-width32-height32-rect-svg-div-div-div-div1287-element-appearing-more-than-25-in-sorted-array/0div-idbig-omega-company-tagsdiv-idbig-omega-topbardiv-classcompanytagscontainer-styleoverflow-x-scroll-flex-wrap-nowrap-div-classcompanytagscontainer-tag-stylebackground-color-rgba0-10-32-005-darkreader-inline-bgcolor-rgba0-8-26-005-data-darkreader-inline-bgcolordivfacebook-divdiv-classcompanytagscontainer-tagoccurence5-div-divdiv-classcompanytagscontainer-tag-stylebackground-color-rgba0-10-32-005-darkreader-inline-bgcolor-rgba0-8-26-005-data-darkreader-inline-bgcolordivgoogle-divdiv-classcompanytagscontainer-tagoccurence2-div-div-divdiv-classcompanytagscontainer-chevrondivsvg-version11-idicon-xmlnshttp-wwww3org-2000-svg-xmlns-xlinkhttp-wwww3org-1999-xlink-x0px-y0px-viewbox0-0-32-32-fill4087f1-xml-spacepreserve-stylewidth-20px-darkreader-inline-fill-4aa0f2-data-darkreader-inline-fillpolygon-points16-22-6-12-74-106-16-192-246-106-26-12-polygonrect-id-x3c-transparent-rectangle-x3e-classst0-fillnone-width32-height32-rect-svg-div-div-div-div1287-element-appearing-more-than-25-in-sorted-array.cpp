@@ -36,6 +36,7 @@ public:
        return -1; 
         */
       
+        /*
         unordered_map<int,int>um;
         
         for(int value : arr) {
@@ -50,6 +51,17 @@ public:
         }
         
         return -1;
+        */
+        
+        unordered_map<int,int>um;
+        for(int value : arr) {
+            um[value]++;
+           if(um[value] > target) {
+               return value;
+           } 
+            
+        }
+       return -1; 
         
         /*
      1.   
