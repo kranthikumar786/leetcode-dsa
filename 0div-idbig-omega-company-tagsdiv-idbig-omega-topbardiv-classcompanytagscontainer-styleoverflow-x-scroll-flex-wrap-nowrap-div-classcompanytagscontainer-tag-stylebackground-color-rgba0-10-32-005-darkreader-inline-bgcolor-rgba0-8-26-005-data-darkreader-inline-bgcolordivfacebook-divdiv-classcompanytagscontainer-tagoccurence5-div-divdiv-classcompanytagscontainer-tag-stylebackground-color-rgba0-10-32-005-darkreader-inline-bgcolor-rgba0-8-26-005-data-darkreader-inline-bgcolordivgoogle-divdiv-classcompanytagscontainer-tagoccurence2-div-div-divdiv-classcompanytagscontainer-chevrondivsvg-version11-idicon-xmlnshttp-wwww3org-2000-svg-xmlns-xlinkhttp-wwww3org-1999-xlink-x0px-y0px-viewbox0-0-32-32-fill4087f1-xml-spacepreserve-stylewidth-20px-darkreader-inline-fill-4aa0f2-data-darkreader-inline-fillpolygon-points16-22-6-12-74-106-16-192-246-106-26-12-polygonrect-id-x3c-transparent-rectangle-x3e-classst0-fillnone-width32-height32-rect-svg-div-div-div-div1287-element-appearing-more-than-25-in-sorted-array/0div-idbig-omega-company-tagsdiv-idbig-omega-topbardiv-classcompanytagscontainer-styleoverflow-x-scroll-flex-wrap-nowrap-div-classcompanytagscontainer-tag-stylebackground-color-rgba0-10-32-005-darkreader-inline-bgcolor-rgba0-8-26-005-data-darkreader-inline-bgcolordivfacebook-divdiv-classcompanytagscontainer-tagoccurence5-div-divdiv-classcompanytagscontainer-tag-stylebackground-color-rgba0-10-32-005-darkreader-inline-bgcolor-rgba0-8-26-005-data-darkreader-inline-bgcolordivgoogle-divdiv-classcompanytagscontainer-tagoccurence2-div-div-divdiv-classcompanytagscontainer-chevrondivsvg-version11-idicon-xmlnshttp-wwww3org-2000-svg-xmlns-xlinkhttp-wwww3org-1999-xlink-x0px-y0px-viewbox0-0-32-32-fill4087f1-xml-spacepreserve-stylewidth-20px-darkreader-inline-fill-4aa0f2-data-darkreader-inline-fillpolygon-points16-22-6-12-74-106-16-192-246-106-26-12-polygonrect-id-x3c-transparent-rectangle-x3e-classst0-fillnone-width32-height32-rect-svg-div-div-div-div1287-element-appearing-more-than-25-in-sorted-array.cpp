@@ -3,7 +3,7 @@ public:
     int findSpecialInteger(vector<int>& arr) {
        int  n  = arr.size();
        int  target = n/4;
-        
+     /*   
         for(int i = 0 ; i < n ; i++) { 
                int count  = 0 ;
             for( int j  = 0 ; j < n ; j++) {
@@ -18,6 +18,23 @@ public:
         }
       
         return -1;
+        */
+        
+    
+        for(int i = 0 ; i < n ; i++) {
+            
+            int left =lower_bound(arr.begin(),arr.end(),arr[i])-arr.begin();
+            int right = upper_bound(arr.begin(),arr.end(),arr[i])-arr.begin()-1;
+            
+          
+         if(right -left + 1 > target) {
+              return arr[i];
+         }   
+            
+        }
+       return -1; 
+        
+        
         
         
         /*
