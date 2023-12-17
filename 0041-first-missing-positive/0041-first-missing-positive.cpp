@@ -1,7 +1,44 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
+     map<int,int>mp;
+      
+     for(int val  :nums){
+         mp[val]++;
+     }
     
+      for (int i = 1 ; i <= nums.size()+1 ; i++ ) {
+          
+           if(mp.find(i) == mp.end()) {
+               return i;
+           }
+          
+      }  
+     return 1;   
+        
+        
+  /*
+        
+        
+        set<int>Myset;
+         int maxVal = 0;  
+       for(int val : nums) {
+            Myset.insert(val);
+          maxVal = max(maxVal,val);
+        }
+        
+       for(int i =  1 ; i <= maxVal; i++) {
+           if(Myset.find(i) == Myset.end()) {
+                 return i;
+           }
+       } 
+       return maxVal+1; 
+       */
+        //for(int i)
+        
+        
+        
+        /*
       int n = nums.size();
         
          int i  = 0 ;
@@ -26,7 +63,7 @@ public:
         }
         
      return n + 1 ;   
-        
+        */
         
         
         
