@@ -10,7 +10,18 @@ public:
           if(mem.find(key) != mem.end()) {
                return mem[key];
           }
-        int n = s1.size();
+        
+      int n = s1.size();
+      
+        vector<int>f1(26) , f2(26);
+        for (int i = 0 ; i < n ; i++) {
+            
+             f1[s1[i] - 'a'] += 1;
+             f2[s2[i] - 'a'] += 1;
+        }
+         if( f1 != f2) {
+             return mem[key] = false;
+         }
         for (int i = 1; i < n; i++) {
             if ((scrambleHelper(s1.substr(0, i), s2.substr(0, i)) && scrambleHelper(s1.substr(i), s2.substr(i))) ||
                 (scrambleHelper(s1.substr(0, i), s2.substr(n - i)) && scrambleHelper(s1.substr(i), s2.substr(0, n - i)))) {
