@@ -29,8 +29,9 @@ public:
     
     bool isMatch(string s, string p) {
         
-        int n = p.length();
+      /*  int n = p.length();
         int  m= s.length();
+      
         vector<vector<bool>>DP(n+1,vector<bool>(m+1,false));
          //return isMatchHelper(n,m,p,s,DP);  
     
@@ -65,5 +66,43 @@ public:
 } 
      
        return DP[n][m]; }
+      */
+       
+        int r = p.size();
+        int c = s.size();
+        vector<bool>previousRow(c+1,false);
+        vector<bool>currentRow(c+1,false);
+        previousRow[0] = true;
+        bool dn = true;
+
+        for(int i=1;i<=r;i++){
+            if(p[i-1]!='*')
+                dn = false;
+            if(dn)
+                currentRow[0] = true;
+            else
+                currentRow[0] = false;
+                
+            for(int j=1;j<=c;j++){
+                if(p[i-1]=='?'){
+                    currentRow[j] = previousRow[j-1];continue;
+                }
+
+                if(p[i-1]=='*'){
+                    currentRow[j] = previousRow[j-1] | previousRow[j] | currentRow[j-1];
+                    continue;
+                }
+
+                if(p[i-1]==s[j-1])
+                    currentRow[j] = previousRow[j-1];
+                else
+                    currentRow[j] = false;
+                
+            }
+
+            previousRow = currentRow;
+        }
+        return previousRow[c];}
+       
 };
 
