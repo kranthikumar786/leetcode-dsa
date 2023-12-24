@@ -68,7 +68,7 @@ public:
        return DP[n][m]; }
       */
        
-        int r = p.size();
+        /*int r = p.size();
         int c = s.size();
         vector<bool>previousRow(c+1,false);
         vector<bool>currentRow(c+1,false);
@@ -102,7 +102,46 @@ public:
 
             previousRow = currentRow;
         }
-        return previousRow[c];}
+        return previousRow[c];
+        
+        */
+        
+     int r = p.size(); 
+     int c = s.size();
+
+vector<bool>currentRow(c+1,false);
+currentRow[0] = true;
+bool dn = true;
+
+bool ap,ac;
+for(int i=1;i<=r;i++){
+    ap=currentRow[0];ac=currentRow[1];
+
+    if(p[i-1]!='*')
+        dn = false;
+
+    currentRow[0] = dn;
+        
+    for(int j=1;j<=c;j++){
+        
+        ac = currentRow[j];
+        if(p[i-1]=='?')
+            currentRow[j] = ap;
+        
+        else if(p[i-1]=='*')
+            currentRow[j] = ap | ac | currentRow[j-1];
+
+        else if(p[i-1]==s[j-1])
+            currentRow[j] = ap;
+            
+        else
+            currentRow[j] = false;
+            
+        ap = ac;
+    }
+}
+return currentRow[c];
+        }
        
 };
 
