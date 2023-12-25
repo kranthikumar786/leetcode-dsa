@@ -26,7 +26,8 @@ return palindrom(left + 1 , right -1 ,s)+2;
     int minInsertions(string s) {
   
        int n = s.length();
-       vector<vector<int>>DP(n+1, vector<int>(n+1 , 0));
+      
+        /*vector<vector<int>>DP(n+1, vector<int>(n+1 , 0));
        // return palindrom(0, n-1,s,DP);
     
         
@@ -43,8 +44,28 @@ return palindrom(left + 1 , right -1 ,s)+2;
             
     }
         return DP[0][n - 1];
+        */
 
-    
+   
+        
+        string rev = s;
+        reverse(rev.begin(), rev.end());
+        
+        vector<int>prevRow(n+1 , 0) , curRow(n+1 , 0);
+        for(int i = 1 ; i <= n ; i++) {
+            
+             for(int j = 1 ; j  <= n ; j++ ) {
+              
+                   if(s[i-1] == rev[j-1]) {
+                        curRow[j] = 1 + prevRow[j-1];
+                   }
+                  else{
+                      curRow[j] = max(curRow[j-1] , prevRow[j]);
+                  }
+             }
+          prevRow = curRow;
+        }
+       return n - prevRow[n];
     }
 };
 
