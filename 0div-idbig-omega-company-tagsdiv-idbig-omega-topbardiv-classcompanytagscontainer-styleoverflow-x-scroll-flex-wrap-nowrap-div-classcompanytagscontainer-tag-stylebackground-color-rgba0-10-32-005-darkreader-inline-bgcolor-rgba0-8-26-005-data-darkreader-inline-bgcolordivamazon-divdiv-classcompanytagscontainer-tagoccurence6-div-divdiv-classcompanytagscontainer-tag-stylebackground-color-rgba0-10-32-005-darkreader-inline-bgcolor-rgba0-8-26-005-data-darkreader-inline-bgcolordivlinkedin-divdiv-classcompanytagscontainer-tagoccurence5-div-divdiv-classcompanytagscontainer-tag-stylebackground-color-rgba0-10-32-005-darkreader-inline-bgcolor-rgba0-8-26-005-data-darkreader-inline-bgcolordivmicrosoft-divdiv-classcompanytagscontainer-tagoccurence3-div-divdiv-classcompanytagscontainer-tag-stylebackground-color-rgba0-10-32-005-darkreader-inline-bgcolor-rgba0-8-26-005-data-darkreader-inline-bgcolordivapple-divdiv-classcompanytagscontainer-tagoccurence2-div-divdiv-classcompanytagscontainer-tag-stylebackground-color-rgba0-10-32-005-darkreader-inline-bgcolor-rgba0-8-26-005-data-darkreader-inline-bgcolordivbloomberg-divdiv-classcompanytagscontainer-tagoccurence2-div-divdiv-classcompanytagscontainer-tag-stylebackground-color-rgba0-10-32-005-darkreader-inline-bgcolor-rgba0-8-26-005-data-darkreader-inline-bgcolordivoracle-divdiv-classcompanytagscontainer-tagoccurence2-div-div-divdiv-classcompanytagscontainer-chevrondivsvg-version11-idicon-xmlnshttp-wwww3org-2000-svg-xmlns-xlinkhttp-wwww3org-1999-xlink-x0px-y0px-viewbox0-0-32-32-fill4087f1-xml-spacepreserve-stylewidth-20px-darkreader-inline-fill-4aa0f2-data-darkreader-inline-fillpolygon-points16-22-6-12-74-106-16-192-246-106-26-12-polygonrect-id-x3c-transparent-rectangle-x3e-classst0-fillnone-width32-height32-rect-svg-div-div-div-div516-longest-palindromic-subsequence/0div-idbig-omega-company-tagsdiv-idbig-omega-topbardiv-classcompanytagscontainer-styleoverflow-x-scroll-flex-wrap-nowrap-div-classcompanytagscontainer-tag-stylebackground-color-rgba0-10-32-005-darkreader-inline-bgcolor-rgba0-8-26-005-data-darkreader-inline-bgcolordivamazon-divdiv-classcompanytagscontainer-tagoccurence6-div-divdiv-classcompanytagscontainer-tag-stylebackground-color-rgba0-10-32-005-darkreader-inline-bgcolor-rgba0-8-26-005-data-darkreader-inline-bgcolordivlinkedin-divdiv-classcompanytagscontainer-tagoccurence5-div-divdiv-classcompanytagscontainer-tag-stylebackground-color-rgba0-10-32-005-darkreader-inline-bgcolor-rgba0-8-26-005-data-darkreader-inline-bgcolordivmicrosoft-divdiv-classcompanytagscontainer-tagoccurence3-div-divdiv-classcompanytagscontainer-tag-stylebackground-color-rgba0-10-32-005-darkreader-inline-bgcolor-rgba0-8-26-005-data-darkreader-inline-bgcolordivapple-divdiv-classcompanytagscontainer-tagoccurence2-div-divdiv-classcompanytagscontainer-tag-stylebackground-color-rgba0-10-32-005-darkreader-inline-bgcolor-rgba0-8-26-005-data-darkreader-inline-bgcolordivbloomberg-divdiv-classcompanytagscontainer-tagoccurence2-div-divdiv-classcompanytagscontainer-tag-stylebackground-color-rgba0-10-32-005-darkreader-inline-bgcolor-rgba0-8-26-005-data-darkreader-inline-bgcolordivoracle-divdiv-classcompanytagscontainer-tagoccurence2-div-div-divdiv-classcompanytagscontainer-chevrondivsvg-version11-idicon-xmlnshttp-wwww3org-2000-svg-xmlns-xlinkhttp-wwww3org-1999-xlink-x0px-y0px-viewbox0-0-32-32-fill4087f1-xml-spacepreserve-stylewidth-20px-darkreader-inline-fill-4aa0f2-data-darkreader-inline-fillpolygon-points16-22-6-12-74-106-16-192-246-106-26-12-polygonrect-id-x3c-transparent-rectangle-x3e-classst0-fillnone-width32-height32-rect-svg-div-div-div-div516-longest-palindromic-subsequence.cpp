@@ -19,7 +19,7 @@ public:
     */
     int longestPalindromeSubseq(string s) {  
          int n = s.length();
-        vector<vector<int>>dp(n+1 , vector<int>(n+1 ,0));
+        /*vector<vector<int>>dp(n+1 , vector<int>(n+1 ,0));
         for (int i = n -1  ; i >= 0 ; i--) {
              for(int j = 1 ; j <= n ; j++) {
                 
@@ -31,9 +31,25 @@ public:
                   }
              }
         }
-       return dp[0][n]; 
-        
+       return dp[0][n];    
+       */
        // return Solve(s , 0 , s.length()-1 , dp);        
+    
+     vector<int>curRow(n+1 , 0) , prevRow(n+1, 0);
+        
+        for (int i = n -1  ; i >= 0 ; i--) {
+             for(int j = 1 ; j <= n ; j++) {
+                
+                  if(s[i] == s[j-1]) {
+                      curRow[j] = 1 + prevRow[j-1]; 
+                  }
+                  else{
+                      curRow[j] = max(curRow[j-1] ,prevRow[j]);
+                  }
+             }
+            prevRow = curRow;
+        }
+       return prevRow[n]; 
     }
 };
 
