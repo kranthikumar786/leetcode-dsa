@@ -28,7 +28,7 @@ return palindrom(left + 1 , right -1 ,s)+2;
        int n = s.length();
       
         /*vector<vector<int>>DP(n+1, vector<int>(n+1 , 0));
-       // return palindrom(0, n-1,s,DP);
+       return palindrom(0, n-1,s,DP);
     
         
         for (int len = 2; len <= n; ++len) {
@@ -48,7 +48,7 @@ return palindrom(left + 1 , right -1 ,s)+2;
 
    
         
-        string rev = s;
+        /*string rev = s;
         reverse(rev.begin(), rev.end());
         
         vector<int>prevRow(n+1 , 0) , curRow(n+1 , 0);
@@ -65,8 +65,33 @@ return palindrom(left + 1 , right -1 ,s)+2;
              }
           prevRow = curRow;
         }
+       
        return n - prevRow[n];
-    }
+       */
+
+        
+        
+        
+        string t=s;
+        reverse(s.begin(), s.end());
+      ///  int n=s.size();
+        vector<int>dp(n+1, 0);
+        int diag=0, temp=0;
+        for(int i=1;i<=n;i++){
+            diag=0;
+            for(int j=1;j<=n;j++){
+                temp=dp[j];
+                if(s[i-1]==t[j-1]){
+                    dp[j]=1+diag;
+                }
+                else dp[j]=max(dp[j], dp[j-1]);
+                diag=temp;
+            }
+        }
+        int lps=dp[n];
+        return n-lps;
+    
+        }
 };
 
 
