@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minCut(string s) {
+  /*  int minCut(string s) {
   vector<int> dp(s.size() + 1);
   iota(begin(dp), end(dp), 0);
   for (int m = 0; m < s.size(); ++m) {
@@ -10,38 +10,41 @@ public:
         dp[j + 1] = min(dp[j + 1], 1 + dp[i]);
   }
   return dp[s.size()] - 1;
-
-    
-    
-    
-   /* bool isPalindrome(int leftIndex , int rightIndex , const string &s) {
-   
-        while(leftIndex <= rightIndex && s[leftIndex++] != s[rightIndex--]) {
-               return false;
-         }
-        return true;
+*/
+  
+    bool isPalindrome(int leftIndex, int rightIndex,  string &s) {
+    while (leftIndex < rightIndex) {
+        if (s[leftIndex] != s[rightIndex]) {
+            return false;
+        }
+        leftIndex++;
+        rightIndex--;
     }
+    return true;
+}
+        
+int minPartitioning(int startIndex,string &s,int n,vector<int>&dp){
+if(startIndex == n){
+     return 0;
+}
+if(dp[startIndex]!=-1){
+return dp[startIndex];
+}
+int ans=INT_MAX;
+for(int endIndex=startIndex;endIndex<n;endIndex++){
 
- int minPartitioning(int startIndex , const string &s, vector<int>&dp) {
-      if(startIndex == s.size()) {return 0;}
-       if(dp[startIndex] != -1) {
-             return dp[startIndex];
-       }
-
-       int ans = INT_MAX;
-       for(int endIndex = startIndex ;endIndex < s.size() ; endIndex++) {
-             if(isPalindrome(startIndex ,endIndex,s)) {
-                       cout<<startIndex << " :" <<endIndex<<"\n";
-                 int minCount = 1 + minPartitioning(endIndex +1 , s , dp);
-                 ans = min(ans,minCount);
-             }
-       }
-      return dp[startIndex] = ans; 
- }  
+    if(isPalindrome(startIndex,endIndex,s)){
+        int val=1+minPartitioning(endIndex+1,s,n,dp);
+        ans=min(ans,val);
+    }
+}
+return dp[startIndex]=ans;
+}
     int minCut(string s) {
-  vector<int>dp(s.size() , -1);
-  return minPartitioning(0 , s, dp)-1;
-
+  int n = s.size();  
+        vector<int>dp(n , -1);
+  return minPartitioning(0 , s, n, dp)-1;
+        
         /*
         max cuts will be s.lenth()-1 : ex  : if  s = "aab" = > 3 then max xuts will be 2  : 
         
@@ -87,6 +90,8 @@ public:
         */
 
 
-        
+       
+   
+    
     }
 };
