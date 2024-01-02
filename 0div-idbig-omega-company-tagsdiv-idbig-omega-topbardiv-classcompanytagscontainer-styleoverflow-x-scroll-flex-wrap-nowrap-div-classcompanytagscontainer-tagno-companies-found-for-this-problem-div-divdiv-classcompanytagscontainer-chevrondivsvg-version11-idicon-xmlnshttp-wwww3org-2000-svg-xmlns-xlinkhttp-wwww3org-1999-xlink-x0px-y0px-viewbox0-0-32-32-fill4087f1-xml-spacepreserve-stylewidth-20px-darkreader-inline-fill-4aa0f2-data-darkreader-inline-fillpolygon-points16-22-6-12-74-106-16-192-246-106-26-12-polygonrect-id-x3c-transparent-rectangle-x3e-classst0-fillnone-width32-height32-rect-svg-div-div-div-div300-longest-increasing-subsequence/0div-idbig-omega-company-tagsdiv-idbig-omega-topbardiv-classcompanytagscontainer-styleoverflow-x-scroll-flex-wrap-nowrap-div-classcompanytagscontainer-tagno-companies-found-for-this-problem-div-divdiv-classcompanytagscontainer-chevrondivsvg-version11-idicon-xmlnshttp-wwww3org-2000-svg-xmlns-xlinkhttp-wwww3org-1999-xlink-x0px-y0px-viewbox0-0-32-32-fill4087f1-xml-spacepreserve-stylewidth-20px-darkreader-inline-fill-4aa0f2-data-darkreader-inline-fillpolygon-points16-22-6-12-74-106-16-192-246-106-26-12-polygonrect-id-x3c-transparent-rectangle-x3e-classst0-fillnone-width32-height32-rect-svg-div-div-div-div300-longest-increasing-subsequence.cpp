@@ -1,6 +1,6 @@
 class Solution {
 public:
-    
+   /* 
     int Rec(int index ,int prev_index , vector<int>&nums, int n, vector<vector<int>>&dp) {
           if(index == n) {
                return 0;
@@ -23,4 +23,25 @@ public:
         vector<vector<int>>dp(n,vector<int>(n+1 , -1));
          return  Rec(0,-1,  nums , n,dp);
     }
+    */
+    
+    
+     int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<int>temp;
+        int len = 0;
+         for(int i = 0 ; i < n ;i++) {     
+             if( i ==0 || temp.back() < nums[i]){
+                 temp.push_back(nums[i]);
+                   len++;
+             }
+              else {
+                   auto index = lower_bound(temp.begin(),temp.end(),nums[i]);
+                    temp[index-temp.begin()] = nums[i];
+              }
+             
+         }
+       return len;
+     }
+    
 };
