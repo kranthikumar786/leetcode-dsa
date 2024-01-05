@@ -37,11 +37,19 @@ public:
              }
               else {
                    auto index = lower_bound(temp.begin(),temp.end(),nums[i]);
+                   /* lower_bound always return iterator either nums[i] value index 
+                       or
+                    first index where nums[i] > some index
+                  */
                     temp[index-temp.begin()] = nums[i];
               }
-             
          }
-       return len;
+       return len;         
+         /*
+           At final temp may [OR] may n't contains longest incerasing subsequence
+            but length remains same.
+         */
      }
     
 };
+
