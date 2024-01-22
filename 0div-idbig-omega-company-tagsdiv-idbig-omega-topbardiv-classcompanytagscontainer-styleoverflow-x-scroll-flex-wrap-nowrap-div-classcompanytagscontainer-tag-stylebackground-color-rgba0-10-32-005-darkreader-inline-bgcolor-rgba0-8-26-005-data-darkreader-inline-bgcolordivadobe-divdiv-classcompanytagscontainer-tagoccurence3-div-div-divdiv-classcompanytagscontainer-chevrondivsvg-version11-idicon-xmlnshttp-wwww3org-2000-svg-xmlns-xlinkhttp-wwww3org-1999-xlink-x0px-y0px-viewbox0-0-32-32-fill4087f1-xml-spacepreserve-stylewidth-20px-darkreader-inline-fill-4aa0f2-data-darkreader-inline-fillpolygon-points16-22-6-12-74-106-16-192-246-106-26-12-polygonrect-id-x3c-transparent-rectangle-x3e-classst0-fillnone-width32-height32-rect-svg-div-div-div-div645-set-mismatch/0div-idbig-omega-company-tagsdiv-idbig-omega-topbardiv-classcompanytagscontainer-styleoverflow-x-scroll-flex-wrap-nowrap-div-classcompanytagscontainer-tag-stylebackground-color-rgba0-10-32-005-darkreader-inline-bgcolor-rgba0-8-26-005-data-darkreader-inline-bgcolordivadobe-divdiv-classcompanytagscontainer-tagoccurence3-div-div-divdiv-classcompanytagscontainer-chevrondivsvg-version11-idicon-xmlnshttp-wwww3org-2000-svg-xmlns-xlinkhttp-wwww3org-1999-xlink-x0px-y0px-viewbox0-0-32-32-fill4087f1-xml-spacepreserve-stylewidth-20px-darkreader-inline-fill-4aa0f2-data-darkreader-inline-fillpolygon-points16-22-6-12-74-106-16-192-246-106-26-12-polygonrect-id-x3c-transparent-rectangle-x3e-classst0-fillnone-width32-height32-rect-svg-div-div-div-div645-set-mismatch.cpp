@@ -1,22 +1,20 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-     
-     int twiceOccurence = 0,missingNumber = 0;
+        vector<int>ans(2,0);
         int n = nums.size();
-        int arr[ 10001] = {0};
-       for(int  num : nums) {
-           arr[num]++;
-       } 
-     for(int i = 1 ; i <= n ; i++) {
-          if(arr[i] == 0) {
-              missingNumber = i;
-          }
-          if(arr[i] == 2){
-              twiceOccurence = i;
-          } 
-     }
-    return {twiceOccurence ,missingNumber};    
+      for(int i = 0 ; i < n ; i++) {
+         int val = abs(nums[i]);
+         ans[1] ^= (i+1)^val;
+          if(nums[val -1] < 0) ans[0] = val;
+          else nums[val -1] = - nums[val-1];
+          
+      }
+    ans[1] ^= ans[0];
+ return ans;
+
+       
+        
         
         
         
