@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
         int n = nums.size();
-        vector<int>ans;
+        vector<int>ans(n,0);
+        /* This approach is Accepted but , we can do better then this interm of wroting code / logic as well
         int minIndex = 0 , minValue = 10001;
       for (int i = 0 ; i < n ; i++) {   
           if(abs(nums[i]) < abs(minValue)) {
@@ -30,11 +31,23 @@ public:
             ans.push_back(nums[leftPointer] * nums[leftPointer]);
             leftPointer--;
        }
-       
+     
         while (rightPointer < n ) {
             ans.push_back(nums[rightPointer] * nums[rightPointer]);
             rightPointer++;
         }
+        */
+        
+       int leftPointer = 0 , rightPointer = n -1 ;
+       int  currentIndex = n - 1 ; 
+        while (leftPointer <= rightPointer) {
+             if(abs(nums[leftPointer]) >= abs(nums[rightPointer])) {
+                 ans[currentIndex--] = nums[leftPointer] * nums[leftPointer++] ;
+                 
+             } else {
+              ans[currentIndex--] = nums[rightPointer] * nums[rightPointer--] ;   
+             }  
+          } 
       return ans;  
     }
 };
