@@ -1,19 +1,11 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        int n = customers.size(); 
-        double ans = 0;
-         int sum = 0;
-        for(int i = 0 ; i < n ;i++) {
-            int fistValue = customers[i][0];
-            int secondValue = customers[i][1];
-            if(sum < fistValue ) {
-                 sum = fistValue;
-            }
-          sum += secondValue;
-         ans += (sum - fistValue);   
+       
+      double cur = 0 , waitingTime = 0;
+        for(auto customer : customers) {    
+            cur = max(cur , 1.0 * customer[0]) + customer[1];
+              waitingTime += cur -customer[0]; 
         }
-         double k = customers.size(); 
-       return   ans/ k;
-    }
+        return  (waitingTime/customers.size());}
 };
