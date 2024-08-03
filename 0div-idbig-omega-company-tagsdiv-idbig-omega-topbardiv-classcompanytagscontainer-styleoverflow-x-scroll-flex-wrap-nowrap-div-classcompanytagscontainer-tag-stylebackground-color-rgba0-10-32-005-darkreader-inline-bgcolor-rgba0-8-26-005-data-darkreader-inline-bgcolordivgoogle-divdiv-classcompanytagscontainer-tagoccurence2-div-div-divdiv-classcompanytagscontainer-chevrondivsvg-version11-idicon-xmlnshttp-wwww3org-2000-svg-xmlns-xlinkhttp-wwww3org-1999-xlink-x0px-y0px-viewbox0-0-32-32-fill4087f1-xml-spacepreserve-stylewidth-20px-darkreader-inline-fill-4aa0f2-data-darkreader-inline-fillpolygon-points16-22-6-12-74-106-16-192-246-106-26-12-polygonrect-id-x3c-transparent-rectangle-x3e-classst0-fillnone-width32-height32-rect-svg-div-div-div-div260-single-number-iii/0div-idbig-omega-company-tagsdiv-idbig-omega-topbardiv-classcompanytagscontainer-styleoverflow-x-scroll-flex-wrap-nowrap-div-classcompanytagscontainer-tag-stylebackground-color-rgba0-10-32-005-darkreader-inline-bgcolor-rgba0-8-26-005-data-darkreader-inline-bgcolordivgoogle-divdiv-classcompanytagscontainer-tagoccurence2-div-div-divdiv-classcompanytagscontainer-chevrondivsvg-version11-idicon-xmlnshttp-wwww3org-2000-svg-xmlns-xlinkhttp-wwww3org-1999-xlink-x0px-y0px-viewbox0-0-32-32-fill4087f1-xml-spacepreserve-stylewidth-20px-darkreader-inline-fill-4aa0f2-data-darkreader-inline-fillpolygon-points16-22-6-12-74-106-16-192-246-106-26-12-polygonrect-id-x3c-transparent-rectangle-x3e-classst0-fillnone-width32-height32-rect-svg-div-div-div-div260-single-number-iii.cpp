@@ -1,19 +1,16 @@
 class Solution {
 public:
-    vector<int> singleNumber(vector<int>& nums) {
-       int n = nums.size();
-        vector<int>ans;
-     unordered_map<int,int>UM;
-        
-     for(int i = 0 ; i < n ; i++) {
-          UM[nums[i]]++;
-     }   
-      
-     for(auto i = UM.begin(); i != UM.end() ; i++) {
-           if(i->second == 1) {
-               ans.push_back(i->first);
-           }
-     }
-        return ans;
+    vector<int> singleNumber(vector<int>& inputArray) {
+       long TotalXor = 0;
+       for(int num : inputArray){
+              TotalXor ^= num;}
+         long  diffset = TotalXor &(-TotalXor) ; 
+         int num1 = 0 , num2 = 0;
+   for(int num : inputArray){
+         if( num & diffset ) {
+             num1 ^= num;
+           } else {num2 ^= num;}
+}
+return {num1, num2};
     }
 };
