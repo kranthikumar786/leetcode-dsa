@@ -12,6 +12,7 @@ public:
                    if(zc <= k || oc <= k) {
                        ans++;
                    }
+                   if(zc > k && oc > k){break;}
              }
         }
         return ans;
