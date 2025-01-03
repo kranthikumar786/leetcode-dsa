@@ -148,3 +148,95 @@ for( int end = s.length()-1  ; end > = 0 ; end--){
 retrun ans;      
        3.  retrun  maxLengthprefixwhichIsSuffix;
      */
+//==================================================================
+/*
+
+ let's try with z-algo : 
+   string text = "GEEKS FOR GEEKS";
+    string pattern = "GEEK";
+    search(text, pattern);
+Output: 
+
+Pattern found at index 0
+Pattern found at index 10
+
+
+
+ based on above details : it's find the  of pattren present or not and where it start and end and frequncy of it .
+
+
+   Brruteforce : 
+     text  loop :
+            parrern loop 
+
+     
+     for(int textIndex = 0 ; textIndex < textIndex - patternIndex ; textIndex++ ) {
+              int pattrenIndex = 0
+           for( ; pattrenIndex < pattrenLength ; patternIndex++) {
+                 if(text[textIndex + pattrenIndex ] != pattern[patternIndex]) {
+                       break;
+                 }
+
+           }
+            if(pattrenIndex == pattrenLength) {
+                  cout<<"PatternFoundAtIndex" <<textIndex<<; 
+            }
+     }
+ timeComplexity: O(textlength * patternlength)
+spaceComplexity: O(1) :
+
+ ======
+
+ string text = "GEEKS FOR GEEKS";
+string pattern = "GEEK";
+
+ string concatinatedString = 
+  "G E E K S $ G E E K S F O R G E E K S"
+     i                
+  [0,0,0,0,0,0,1,2,3,4,5,0,0,0,1,2,3,4,5]
+     
+      if(conS[i] == '$') {
+         i = 0;
+      }
+
+       if(conS[i] == cons[j]) {
+            i++; j++;
+            zArray[j] = zArray[j-1] +1 ; 
+       }
+
+
+
+[0,0,0,0,0,0,1,2,3,4,5,0,0,0,1,2,3,4,5]
+ 
+ ONCE i have Zarray :  travese it with  and get the no of times present or starting and end index  too .
+
+
+  but how this is going to help to me for longest pprefix  which is also suffix : 
+  
+    singel String given and no pattren for search : 
+    "ababab" : 
+     
+     a b a b a b 
+     0 0 1 2 3 4 
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
