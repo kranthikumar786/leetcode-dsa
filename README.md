@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
+| [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0214-shortest-palindrome) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
+| [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0214-shortest-palindrome) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
+| [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -87,4 +90,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Trie
+|  |
+| ------- |
+| [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 <!---LeetCode Topics End-->
