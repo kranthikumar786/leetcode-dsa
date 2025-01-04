@@ -27,6 +27,20 @@ public:
 };
   /*
 
+   optimazation 3: with single time  loop : 
+    timeComplexity : O(n)
+    spaceComplexity : O(1)
+
+optimazation 2: with  two times loop :  find sum then traverse
+    timeComplexity : O(n)
+    spaceComplexity : O(1)
+
+
+
+optimazation 1:   everychar maintains how many time has to shift in preComputedShift array then shift
+    timeComplexity : O(n)
+    spaceComplexity : O(n)
+
   optimzation on what ..? 
    for sure i have to travese the shifts so no skip or prepreocessing for it : 
       repreatively doing for every substring : ..? 
