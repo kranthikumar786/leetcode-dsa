@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
@@ -36,11 +37,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
 ## Rolling Hash
 |  |
