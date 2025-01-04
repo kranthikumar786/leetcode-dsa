@@ -1,59 +1,50 @@
 class Solution {
 public:
-  vector<int> zFunc(string text , string pattern) {
-      string concatedString = pattern + '$' + text ;
-      int concatedStringLength = concatedString.size();
-     vector<int>indicesOfSubstringAlsoPrefix(concatedStringLength,0);
-      int prefixWindowLeftPtr = 0 , prefixWindowRightPtr = 0; 
-    for(int currentIndex = 1 ; currentIndex < concatedStringLength ; currentIndex++) {
-      if(currentIndex > prefixWindowRightPtr) {
-          prefixWindowRightPtr = prefixWindowLeftPtr =  currentIndex ;
-          while(prefixWindowRightPtr < concatedStringLength && concatedString[prefixWindowRightPtr] == concatedString[prefixWindowRightPtr-prefixWindowLeftPtr]){
-                   prefixWindowRightPtr++;    
-          }
-           indicesOfSubstringAlsoPrefix[currentIndex] = prefixWindowRightPtr - prefixWindowLeftPtr;
-           prefixWindowRightPtr--;
-      } else{
-              int beginingIndex = currentIndex - prefixWindowLeftPtr ;
-              if(indicesOfSubstringAlsoPrefix[beginingIndex] < prefixWindowRightPtr - currentIndex +1){
-                  indicesOfSubstringAlsoPrefix[currentIndex] = indicesOfSubstringAlsoPrefix[beginingIndex];  
-              }
-         else{
-            prefixWindowLeftPtr = currentIndex;
-             while(prefixWindowRightPtr < concatedStringLength && concatedString[prefixWindowRightPtr] == concatedString[prefixWindowRightPtr-prefixWindowLeftPtr]){
-                   prefixWindowRightPtr++;    
-          }
-           indicesOfSubstringAlsoPrefix[currentIndex] = prefixWindowRightPtr - prefixWindowLeftPtr;
-           prefixWindowRightPtr--;
-
-         }
-      }
-    }
-   return  indicesOfSubstringAlsoPrefix;    
-  }
   int strStr(string haystack, string needle) {
-      if(needle.size() > haystack.size()) return -1;
-     vector<int>zfun = zFunc(haystack,needle);
-   for(int i = 0 ; i < zfun.size() ; i++) {
-       if(zfun[i] == needle.size()){
-           cout<<zfun[i] <<" ";
-         return  i - needle.size() -1; 
-       }
-   }
-   // "sadbutsad"
-   // 2
-   // 0
-      // sad = 3
-    // 0 1 2 3 4 5 6 7 8 9 10 11 12
-    // s a d $ s a d b u t s   a  d :
-  //   0 0 0 0 3 0 0 0 0 0 3   0  0 : 
-    return -1;
+     if (needle.size() > haystack.size()) return -1;
+    const int base = 256;
+    const int mod = 1e9 + 7;
+    int n = haystack.size(), m = needle.size();
+    long long patternHash = 0, windowHash = 0, basePower = 1;
+    for (int i = 0; i < m; ++i) {
+        patternHash = (patternHash * base + needle[i]) % mod;
+        windowHash = (windowHash * base + haystack[i]) % mod;
+        if (i > 0) basePower = (basePower * base) % mod;
+    }
+    for (int i = 0; i <= n - m; ++i) {
+        if (patternHash == windowHash) {
+            if (haystack.substr(i, m) == needle) return i;
+        }
+        if (i < n - m) {
+            windowHash = (windowHash - haystack[i] * basePower) % mod;
+            windowHash = (windowHash * base + haystack[i + m]) % mod;
+            if (windowHash < 0) windowHash += mod;
+        }
+    }
+return -1;
   }
   };
 
 /*
+ RollingHash (Rabin-Karp) Algo : 
+ core idea : 
+   1. find hashValue for pattren 
+   2. find hasValue for pattren size in  text as well by elimating leftchar and by adding right char's hasvalue
+   3. compare hashValues it same then true else false; 
+ 
+
+
+
+===================================================================================================
 Z-algo : 
 
+    "sadbutsad"
+    2
+    0
+       sad = 3
+       0 1 2 3 4 5 6 7 8 9 10 11 12
+       s a d $ s a d b u t s   a  d :
+       0 0 0 0 3 0 0 0 0 0 3   0  0 : 
 prefix as substring  also this helps  find the occurance of pattren in text:
  s = "s a d b u t s a d" , p = "s a d"     
   cs =  p + '$' + s ;
@@ -102,6 +93,53 @@ prefix as substring  also this helps  find the occurance of pattren in text:
               }
          }
 
+
+class Solution {
+public:
+  vector<int> zFunc(string text , string pattern) {
+      string concatedString = pattern + '$' + text ;
+      int concatedStringLength = concatedString.size();
+     vector<int>indicesOfSubstringAlsoPrefix(concatedStringLength,0);
+      int prefixWindowLeftPtr = 0 , prefixWindowRightPtr = 0; 
+    for(int currentIndex = 1 ; currentIndex < concatedStringLength ; currentIndex++) {
+      if(currentIndex > prefixWindowRightPtr) {
+          prefixWindowRightPtr = prefixWindowLeftPtr =  currentIndex ;
+          while(prefixWindowRightPtr < concatedStringLength && concatedString[prefixWindowRightPtr] == concatedString[prefixWindowRightPtr-prefixWindowLeftPtr]){
+                   prefixWindowRightPtr++;    
+          }
+           indicesOfSubstringAlsoPrefix[currentIndex] = prefixWindowRightPtr - prefixWindowLeftPtr;
+           prefixWindowRightPtr--;
+      } else{
+              int beginingIndex = currentIndex - prefixWindowLeftPtr ;
+              if(indicesOfSubstringAlsoPrefix[beginingIndex] < prefixWindowRightPtr - currentIndex +1){
+                  indicesOfSubstringAlsoPrefix[currentIndex] = indicesOfSubstringAlsoPrefix[beginingIndex];  
+              }
+         else{
+            prefixWindowLeftPtr = currentIndex;
+             while(prefixWindowRightPtr < concatedStringLength && concatedString[prefixWindowRightPtr] == concatedString[prefixWindowRightPtr-prefixWindowLeftPtr]){
+                   prefixWindowRightPtr++;    
+          }
+           indicesOfSubstringAlsoPrefix[currentIndex] = prefixWindowRightPtr - prefixWindowLeftPtr;
+           prefixWindowRightPtr--;
+
+         }
+      }
+    }
+   return  indicesOfSubstringAlsoPrefix;    
+  }
+  int strStr(string haystack, string needle) {
+      if(needle.size() > haystack.size()) return -1;
+     vector<int>zfun = zFunc(haystack,needle);
+   for(int i = 0 ; i < zfun.size() ; i++) {
+       if(zfun[i] == needle.size()){
+           cout<<zfun[i] <<" ";
+         return  i - needle.size() -1; 
+       }
+   }
+return -1;
+  }
+  };
+===================================================================================
 class Solution {
 public:
 
