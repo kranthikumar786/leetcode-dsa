@@ -2,44 +2,31 @@ class Solution {
 public:
     string shiftingLetters(string s, vector<int>& shifts) {
      int n = s.size();
-     long long   rightSum = 0 ;
-     int shift ; 
-     for(int i = 0 ; i < n ; i++) {
-          rightSum  += shifts[i];  // avoid %26 here 
-     }
-      for(int i = 0 ; i < n; i++){    
-              int ch = s[i] -'a';
-              shift = rightSum%26;
-            int number = (ch + shift)%26;
-             s[i] = number + 'a';   
-             rightSum -=shifts[i]; 
-      }  
-   return  s;
-    }
-};
-  /*
-optimization 2 : 
-   timeComplexity : O(n) : 
-   spaceComplexity : O(1) :
-   
-=======================
-optimzation 1 : can be prefixSum by mainitning the each char in given string with same order shift:
-    timeComplexity : O(n) : 
-   spaceComplexity : O(n) :
-==================================
+    long long  shift = 0 ; 
+      // rightSum = 0;
+    //  for(int i = 0 ; i < n ; i++) {
+    //       rightSum  = (rightSum +shifts[i]) %26; 
+    //  }
 
- optimization 2 : 
-   timeComplexity : O(n) : 
-   spaceComplexity : O(1) :
-
-// left = 0 ;
+    // left = 0 ;
     //    3 + 5 + 9 = 17 :  a : 
     //    left = 3 :
     //        5 + 9 = 14 : 
 
     //     left = 8 :
     //           9    
-    
+      for(int k = n-1 ; k >= 0; k--){    
+              int ch = s[k] -'a';
+              shift += shifts[k];
+              shift = shift%26; 
+              int number = (ch + shift)%26;
+             s[k] = number + 'a';   
+      }  
+   return  s;
+    }
+};
+  /*
+
   optimzation on what ..? 
    for sure i have to travese the shifts so no skip or prepreocessing for it : 
       repreatively doing for every substring : ..? 
