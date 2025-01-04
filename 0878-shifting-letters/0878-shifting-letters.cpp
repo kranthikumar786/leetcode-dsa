@@ -5,7 +5,7 @@ public:
      long long   rightSum = 0 ;
      int shift ; 
      for(int i = 0 ; i < n ; i++) {
-          rightSum  += shifts[i]; 
+          rightSum  += shifts[i];  // avoid %26 here 
      }
       for(int i = 0 ; i < n; i++){    
               int ch = s[i] -'a';
@@ -18,6 +18,20 @@ public:
     }
 };
   /*
+optimization 2 : 
+   timeComplexity : O(n) : 
+   spaceComplexity : O(1) :
+   
+=======================
+optimzation 1 : can be prefixSum by mainitning the each char in given string with same order shift:
+    timeComplexity : O(n) : 
+   spaceComplexity : O(n) :
+==================================
+
+ optimization 2 : 
+   timeComplexity : O(n) : 
+   spaceComplexity : O(1) :
+
 // left = 0 ;
     //    3 + 5 + 9 = 17 :  a : 
     //    left = 3 :
