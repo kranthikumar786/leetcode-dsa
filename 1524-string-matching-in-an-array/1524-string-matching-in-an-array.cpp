@@ -1,21 +1,60 @@
 class Solution {
 public:
-/*bool isSubString(string text , string pattern){
-       int textLength = text.size(), patternLength = pattern.size();
-       int textPtr = 0 , patternPtr = 0;
-      for(; textPtr <= textLength-patternLength ;textPtr++){
-         patternPtr = 0;
-         for(;patternPtr <patternLength ; patternPtr++){
-              if(text[textPtr+patternPtr] != pattern[patternPtr]){
-                  break;
-              }
-         }
-          if(patternPtr == patternLength ){return 1;}
-      }
-     return (textPtr == textLength && patternPtr == patternLength);
+ vector<string>matchingWords;
+     vector<string> stringMatching(vector<string>& words) {
+    vector<string>matchingWords;
+    TrieNode* root = new TrieNode(); 
+    for(auto word : words) {
+        for(int startIndex = 0 ;startIndex < word.size() ; startIndex++ ) {
+            insertWord(root,word.substr(startIndex));
+        }
     }
-    */
+  for(auto word : words) {
+     if(isSubstring(root, word)){
+         matchingWords.push_back(word);
+     }
+  }
+     return matchingWords;
+    }
+    class TrieNode{
+        public : 
+        int frequncy ;
+        unordered_map<char,TrieNode*>childNodes;
+    };
+ void insertWord(TrieNode* root , string word){
+      TrieNode* currentNode = root;
+      for(char c : word) {
+        if(currentNode -> childNodes.find(c) != currentNode-> childNodes.end()) {
+                 currentNode = currentNode->childNodes[c];
+                 currentNode->frequncy++;
+        } else{
+             TrieNode * newNode = new TrieNode();
+             newNode->frequncy = 1;
+              currentNode->childNodes[c] = newNode;
+              currentNode = newNode;
+        }
+      }
+ }
+ bool isSubstring(TrieNode* root , string word) {
+    TrieNode* currentNode = root ;
 
+    for(char c : word) {
+          currentNode = currentNode->childNodes[c];
+    }
+    return currentNode->frequncy > 1;
+ }
+};
+
+
+/*
+
+
+
+
+================================================
+class Solution {
+public:
+/*
 vector<int>computeLPS(string pattern){
       int patternLength = pattern.size();
       int startingIndexWithLengthRef = 0 , movingIndex = 1;
@@ -70,10 +109,9 @@ vector<int>computeLPS(string pattern){
      return ans;
     }
 };
-
-
+*/
 /*
-
+====================================================================
 KMP approach :
 timeComplexity : O(wordsLength * wordsLength + maxWordSize + maxWordSize) 
 spaceComplexity: O(maxWordSize) 
