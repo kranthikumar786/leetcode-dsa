@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
 | [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
+| [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
+| [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
