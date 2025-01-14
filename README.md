@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
 ## Bit Manipulation
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
