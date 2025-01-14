@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
