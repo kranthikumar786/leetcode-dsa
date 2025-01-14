@@ -1,7 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-    set<char>se;
+    unordered_set<char>se;
   int leftPtr = 0 ,rightPtr = 0,n = s.length();
    if( n == 0) { return 0;}
    int ans = 0; 
@@ -20,6 +20,8 @@ public:
 
 
 /*
+
+
  genrate all substrings meanwhile check the  longest  substring without repeating
     tc : O(n*n*n)
     sc : O(26) :
