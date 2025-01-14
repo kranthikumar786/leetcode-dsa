@@ -6,7 +6,7 @@ public:
    if( n == 0) { return 0;}
    int ans = 0; 
      while(rightPtr < n){
-        while(leftPtr < rightPtr && se.size() && se.find(s[rightPtr]) != se.end() ){
+        while(se.size() && se.find(s[rightPtr]) != se.end()){
              se.erase(s[leftPtr]);
             leftPtr++; 
         }
