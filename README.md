@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1558-course-schedule-iv) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1558-course-schedule-iv) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
