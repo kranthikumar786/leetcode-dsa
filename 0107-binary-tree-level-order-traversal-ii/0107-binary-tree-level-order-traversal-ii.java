@@ -31,10 +31,10 @@ class Solution {
             return ans;
         }
       int depthOfTree = maxDepth(root);
-      depthOfTree--;
-       for(int i = 0 ; i <= depthOfTree; i++){
-         ans.add(new ArrayList<>());
-       }
+    //  depthOfTree--;
+    //    for(int i = 0 ; i <= depthOfTree; i++){
+    //      ans.add(new ArrayList<>());
+    //    }
     Queue<TreeNode> Q = new LinkedList<>();
     Q.add(root);
     while (Q.size() > 0){
@@ -51,9 +51,12 @@ class Solution {
           Q.add(currentNode.right);   
     }
   //  ans.add(0, ele);
- ans.set(depthOfTree,ele);
-   depthOfTree--;
+//  ans.set(depthOfTree,ele);
+//    depthOfTree--;
+ans.add(ele);
     }
+   Collections.reverse(ans);
+   // Collections.reverse(ans.begin(),ans.end());
      return ans;
     }
 }
