@@ -17,23 +17,24 @@
 
 
 class Solution {
-//    public int maxDepth(TreeNode root){
-//       if(root == null){
-//          return 0;
-//       }
-//     int leftDepth =  maxDepth(root.left);
-//     int rightDepth =  maxDepth(root.right);
-//    return Math.max(leftDepth , rightDepth) +1;  
-//    }
+   public int maxDepth(TreeNode root){
+      if(root == null){
+         return 0;
+      }
+    int leftDepth =  maxDepth(root.left);
+    int rightDepth =  maxDepth(root.right);
+   return Math.max(leftDepth , rightDepth) +1;  
+   }
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
        List<List<Integer>> ans = new ArrayList<>(); 
         if( root == null){
             return ans;
         }
-    //   int depthOfTree = maxDepth(root);
-    //   for(int i = 0 ; i <= depthOfTree; i++){
-    //     ans.add(new ArrayList<>());
-    //   }
+      int depthOfTree = maxDepth(root);
+      depthOfTree--;
+       for(int i = 0 ; i <= depthOfTree; i++){
+         ans.add(new ArrayList<>());
+       }
     Queue<TreeNode> Q = new LinkedList<>();
     Q.add(root);
     while (Q.size() > 0){
@@ -49,9 +50,9 @@ class Solution {
           if(currentNode.right != null)
           Q.add(currentNode.right);   
     }
-    ans.add(0, ele);
-//   ans[depthOfTree].add(ele);
-//   depthOfTree--;
+  //  ans.add(0, ele);
+ ans.set(depthOfTree,ele);
+   depthOfTree--;
     }
      return ans;
     }
