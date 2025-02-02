@@ -6,6 +6,9 @@ class Solution {
     for(int i = 1; i < n ;i++) {
         if(nums[i] < nums[i-1]){
            inversions++; 
+           if(inversions > 1){
+            return false;
+           }
         }
     }
      if(nums[0] < nums[n-1]){
