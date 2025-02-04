@@ -1,16 +1,16 @@
 class Solution {
     public int maxAscendingSum(int[] nums) {
-       int n = nums.length,ans = 0,val = nums[0];
+       int n = nums.length,maxSubArraySum = nums[0],currentSubArraySum = nums[0];
         for(int i = 1 ; i < n ;i++){
            if(nums[i-1] < nums[i]){
-              val += nums[i];
+              currentSubArraySum += nums[i];
            } else{
-           ans = Math.max(ans,val);
-            val = nums[i];
+           maxSubArraySum = Math.max(maxSubArraySum,currentSubArraySum);
+            currentSubArraySum = nums[i];
            }
        }
-       ans = Math.max(ans,val);
-     return ans;
+       maxSubArraySum = Math.max(maxSubArraySum,currentSubArraySum);
+     return maxSubArraySum;
     }
 }
 /**
