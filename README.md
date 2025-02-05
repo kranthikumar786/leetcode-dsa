@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -352,9 +353,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
