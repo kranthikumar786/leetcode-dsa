@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
