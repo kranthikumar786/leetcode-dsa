@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
 | [3684-substring-matching-pattern](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3684-substring-matching-pattern) |
@@ -205,11 +206,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
 ## Greedy
 |  |
