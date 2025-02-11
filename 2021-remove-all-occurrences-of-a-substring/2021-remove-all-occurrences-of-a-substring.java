@@ -1,9 +1,11 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
-        while (s.contains(part)) {
-            s = s.replaceFirst(part, "");
-        }
-        return s;
+     StringBuilder str = new StringBuilder(s);
+      while(str.indexOf(part) != -1 ) {
+          int index = str.indexOf(part);
+        str.delete(index, index + part.length());  
+      } 
+     return str.toString();
     }
 }
 
