@@ -1,5 +1,16 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
+        while (s.contains(part)) {
+            s = s.replaceFirst(part, "");
+        }
+        return s;
+    }
+}
+
+
+
+/*class Solution {
+    public String removeOccurrences(String s, String part) {
         
         StringBuilder str = new StringBuilder();
         int sl = s.length();
@@ -14,6 +25,7 @@ class Solution {
        return str.toString(); 
    }
 }
+*/
 
         /**
 
@@ -63,5 +75,24 @@ s = aaaaabcbcbcbcbc :
          tc  :O(n^2) :  10^3 * 10^3 = 10^6 > 10^5 so TLE can be easily expected : 
          sc : O(n) :  
         abc 
+
+
+----------------------------------------
+
+   why stack is not best approach  ...? interms of implmentaion ..? 
+     we can only check the vtop valuesusing peek() but at worst case we might need to have to check 
+     10^3 size substring and at the end which might not be same last char from stack  so it kind of not best practice to write that code 
+     so simply use strinBuilder as internally it will take care about all and we can move ahead with our core / required logic : 
+
+
+pattern matching algo like KMP or other won't works here 
+becuase of removing nature and after rmeve again can form the substring : 
+  so won't work : 
+
+
+
+
+
+
          */
  
