@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2448-count-number-of-bad-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2448-count-number-of-bad-pairs) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2509-minimize-xor](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2509-minimize-xor) |
 | [2591-frog-jump-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2591-frog-jump-ii) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2434-design-a-number-container-system](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
