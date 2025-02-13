@@ -7,7 +7,7 @@ class Solution {
      }
      int count = 0 ;
      while (minHeap.size() > 0 && minHeap.peek() < k) {
-        count++;
+           count++;
         int firstMin = minHeap.poll(); 
         if(minHeap.size() == 0){
             break;
