@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
