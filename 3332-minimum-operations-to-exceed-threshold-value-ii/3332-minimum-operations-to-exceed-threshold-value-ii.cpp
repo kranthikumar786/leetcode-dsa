@@ -1,37 +1,23 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-    priority_queue<long long ,vector<long long>,greater<long long>>Q;
-    for(int num : nums){
-        Q.push(num);
+     priority_queue<long long ,vector<long long>,greater<long long>>Q(nums.begin(),nums.end());
+     int count = 0;
+        while(Q.size() > 0 && Q.top() < k){
+                count++;
+                long long firstMin = Q.top(); Q.pop();
+                long long secondMin = Q.top(); Q.pop();
+                long long sum = (firstMin *2) + secondMin;
+                Q.push(sum);
     }
-        int count = 0;
-    while(Q.size() > 0 && Q.top() < k){
-           count++;
-         long long firstMin = Q.top(); Q.pop();
-         long long secondMin = Q.top(); Q.pop();
-         long long  minV = min(firstMin,secondMin)*2;
-         long long maxVal = max(firstMin,secondMin);
-         long long sum = minV + maxVal;
-         Q.push(sum);
-    }
-    // 1,2,3,10,11:
-    // 4 : 3, 10,11 : 
-    // 3 ,4 : 
-    //   10 ,10, 11 : 
-
+    
  return count;
-   // dry run : 
-
-
-
     }
 };
 
-
  /*
-
-
+ tc : O(nlogn)  
+ sc : O(n):
  tc : 
  [10,10,10,9]
   k = 10 , 
@@ -46,6 +32,11 @@ public:
 
    output : 0 : 
 
+// dry run : 
+// 1,2,3,10,11:
+    // 4 : 3, 10,11 : 
+    // 3 ,4 : 
+    //   10 ,10, 11 : 
 
 
 
