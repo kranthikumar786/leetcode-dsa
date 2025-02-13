@@ -1,14 +1,13 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-     priority_queue<long long ,vector<long long>,greater<long long>>Q(nums.begin(),nums.end());
+     priority_queue<int ,vector<int>,greater<int>>Q(nums.begin(),nums.end());
      int count = 0;
         while(Q.size() > 0 && Q.top() < k){
                 count++;
-                long long firstMin = Q.top(); Q.pop();
-                long long secondMin = Q.top(); Q.pop();
-                long long sum = (firstMin *2) + secondMin;
-                Q.push(sum);
+                int  firstMin = Q.top(); Q.pop();
+                int  secondMin = Q.top(); Q.pop();
+                Q.push (firstMin > (INT_MAX - secondMin)/2 ? k : (2 * firstMin) + secondMin); 
     }
     
  return count;
