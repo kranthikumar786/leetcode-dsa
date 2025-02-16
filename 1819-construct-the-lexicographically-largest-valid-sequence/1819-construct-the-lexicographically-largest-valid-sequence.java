@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public int[] constructDistancedSequence(int n) {
         int len = 2 * n - 1;
