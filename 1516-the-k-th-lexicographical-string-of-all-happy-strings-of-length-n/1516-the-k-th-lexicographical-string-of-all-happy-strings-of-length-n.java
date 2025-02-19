@@ -1,7 +1,7 @@
 class Solution {
     int count = 0;
     String ans = "";
-    public void rec(StringBuilder comb, int n, int k) {
+    public void generateHappyStrings(StringBuilder comb, int n, int k) {
         if (comb.length() == n) {
             count++;
             if (count == k) {
@@ -14,12 +14,12 @@ class Solution {
                 continue;
             }
             comb.append(c);
-            rec(comb, n, k);
+            generateHappyStrings(comb, n, k);
             comb.deleteCharAt(comb.length() - 1); 
         }
     }
     public String getHappyString(int n, int k) {
-        rec(new StringBuilder(), n, k);
+        generateHappyStrings(new StringBuilder(), n, k);
         return ans;
     }
 }
