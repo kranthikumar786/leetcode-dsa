@@ -1,7 +1,7 @@
 class Solution {
     int count = 0;
     String ans = "";
-    public void rec(int index, StringBuilder comb, int n, String input, int k) {
+    public void rec(StringBuilder comb, int n, int k) {
         if (comb.length() == n) {
             count++;
             if (count == k) {
@@ -9,23 +9,25 @@ class Solution {
             }
             return;
         }
-
-        for (int i = 0; i < 3; i++) {
-            if (comb.length() > 0 && comb.charAt(comb.length() - 1) == input.charAt(i)) {
+        for (char c = 'a' ; c < 'd' ; c++) {
+            if (comb.length() > 0 && comb.charAt(comb.length() - 1) == c) {
                 continue;
             }
-            comb.append(input.charAt(i));
-            rec(i, comb, n, input, k);
+            comb.append(c);
+            rec(comb, n, k);
             comb.deleteCharAt(comb.length() - 1); 
         }
     }
     public String getHappyString(int n, int k) {
-        rec(-1, new StringBuilder(), n, "abc", k);
+        rec(new StringBuilder(), n, k);
         return ans;
     }
 }
 
      
+
+
+
      /**
      
        
