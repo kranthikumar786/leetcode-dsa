@@ -14,9 +14,8 @@
  * }
  */
 class FindElements {
-   
-     TreeNode Lroot = null;
-    HashSet<Integer> hashSet = new HashSet<>();
+   //  TreeNode Lroot = null;
+    HashSet<Integer> hashSet ;
      void DFS(TreeNode root, int value){
          if(root == null){
              return ;
@@ -32,9 +31,8 @@ class FindElements {
        return;
      }
     public FindElements(TreeNode root) {
-       TreeNode Lroot = root;
-   //   hashSet = ;
-       DFS(Lroot,0); 
+        hashSet = new HashSet<>();
+       DFS(root,0); 
     }
     public boolean find(int target) {
        return hashSet.contains(target);   
