@@ -45,11 +45,14 @@ public:
         for (int row = 0; row < rows; row++) {
             for (int col = 0; col < cols; col++) {
                 maxPath = max(maxPath, dfs(matrix, dp, row, col));  // Update global max path
+              if(maxPath == rows*cols){
+               cout<<row<<col<<"\n";
+                return maxPath;
+              }
             }
         }
 
         return maxPath;  // Return the final longest increasing path
-
 
     //            -1,0
     //  0,-1     [0,0] :  0 ,1 
@@ -98,10 +101,8 @@ public:
   No chance to fill the visited matrix: so optimzation seems like not possible : 
    
     filling is thier for every statring cell ,then undo again : the path : 
-
       chance to enter into loop : 
        if(!visited[i][j]) {
-
        }
     */ 
     }
