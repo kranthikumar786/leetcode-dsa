@@ -1,7 +1,3 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
     // Directions for moving: left, up, right, down
