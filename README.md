@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
+| [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1364-tuple-with-same-product](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
+| [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1876-map-of-highest-peak) |
