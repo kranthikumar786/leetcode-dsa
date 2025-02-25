@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2145-grid-game) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2802-find-the-punishment-number-of-an-integer) |
