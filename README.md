@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
 | ------- |
@@ -480,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
 |  |
 | ------- |
