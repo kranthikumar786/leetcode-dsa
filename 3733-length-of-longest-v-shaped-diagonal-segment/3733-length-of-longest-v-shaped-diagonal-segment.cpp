@@ -1,9 +1,11 @@
 class Solution {
 public:
+    int dp[501][501][2][2][5];
     int n, m;
 
     int solve(int r, int c, int turn, int curr, int dir, vector<vector<int>>& grid) {
         if (r < 0 || r >= n || c < 0 || c >= m) return 0;
+        if (dp[r][c][turn][curr][dir] != -1) return dp[r][c][turn][curr][dir];
 
         if (curr && grid[r][c] != 2) return 0;
         if (!curr && grid[r][c] != 0) return 0;
@@ -24,11 +26,12 @@ public:
             if (!turn) ans = max(ans, 1 + solve(r - 1, c + 1, 1, !curr, 1, grid));
         }
 
-        return ans;
+        return dp[r][c][turn][curr][dir] = ans;
     }
 
     int lenOfVDiagonal(vector<vector<int>>& grid) {
         n = grid.size(), m = grid[0].size();
+        memset(dp, -1, sizeof(dp));
         int ans = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
