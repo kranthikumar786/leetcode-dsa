@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0214-shortest-palindrome) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
