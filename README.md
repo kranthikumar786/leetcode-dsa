@@ -478,11 +478,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
