@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
