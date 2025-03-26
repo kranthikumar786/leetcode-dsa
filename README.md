@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2308-divide-array-into-equal-pairs) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -550,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2610-closest-prime-numbers-in-range) |
