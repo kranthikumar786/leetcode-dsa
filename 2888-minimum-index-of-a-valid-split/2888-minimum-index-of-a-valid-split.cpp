@@ -2,17 +2,22 @@ class Solution {
 public:
     int minimumIndex(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int, int> UM;
+        int dominantValue = nums[0], count = 0;
+        
         for (int num : nums) {
-            UM[num]++;
+            if (count == 0) {
+                dominantValue = num;
+            }
+            count += (num == dominantValue) ? 1 : -1;
         }
-        int dominantValue = -1, dominantValueFrequency = -1;
-        for (auto itr = UM.begin(); itr != UM.end(); itr++) {
-            if (itr->second > dominantValueFrequency) {
-                dominantValue = itr->first;
-                dominantValueFrequency = itr->second;
+
+        int dominantValueFrequency = 0;
+        for (int num : nums) {
+            if (num == dominantValue) {
+                dominantValueFrequency++;
             }
         }
+
         int leftCount = 0, rightCount = dominantValueFrequency;
         for (int i = 0; i < n - 1; i++) {
             if (nums[i] == dominantValue) {
@@ -24,6 +29,7 @@ public:
                 return i;
             }
         }
+
         return -1;
     }
 };
