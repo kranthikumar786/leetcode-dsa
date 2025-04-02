@@ -5,8 +5,8 @@ public:
     int n = nums.size();
        if(n < 3 ) {return 0;}
 
-    int leftMax = nums[0];
-    int rightMax = 0;   
+    long long  leftMax = nums[0];
+    long long  rightMax = 0;   
     //    vector<int>maxValueRightSide(n,-1);
     //     maxValueRightSide[n-1] = nums[n-1];
     //   for(int k = n-2; k >= 0 ; k--) {
@@ -21,8 +21,8 @@ public:
     for(int i = 1; i < n -1; i++) {
                    
         rightMax = max(rightMax, leftMax - nums[i]); // Update rightMax as max diff
-            ans = max(ans, (long long)rightMax * nums[i + 1]);      // Compute max triplet value
-        leftMax = max((long long)leftMax, (long long)nums[i]);  
+            ans = max(ans, rightMax * nums[i + 1]);      // Compute max triplet value
+        leftMax = max(leftMax, (long long)nums[i]);  
     }
          return ans <= 0 ? 0 :ans;
 
