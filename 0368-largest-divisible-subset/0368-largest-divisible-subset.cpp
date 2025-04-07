@@ -2,17 +2,41 @@ class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        vector<vector<int>> result(nums.size());
-        vector<int> ret;
-        for (int i = 0;i < nums.size();++i) {
-            for (int j = 0;j < i;++j) {
-                if (nums[i] % nums[j] == 0 && result[j].size() > result[i].size()) {
-                    result[i] = result[j];
+        const int n = nums.size();
+        vector<int> deg(n, 0), prev(n, -1);
+        vector<vector<int>> adj(n);
+
+        //Kahn's algo
+        for (int i = 0; i < n; i++) {//Build adjacent list
+            for (int j = i+1; j < n; j++) {
+                if (nums[j] % nums[i] == 0) {
+                    adj[i].push_back(j);
+                    deg[j]++;//indegree
                 }
             }
-            result[i].push_back(nums[i]);
-            if (ret.size() < result[i].size()) ret = result[i];
         }
-        return ret;
+        // BSF
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (deg[i]==0) q.push(i);
+        }
+
+        int iMax= 0;
+        while (!q.empty()) {
+            int x=q.front();
+            q.pop();
+            for (int y : adj[x]) {
+                if (--deg[y] == 0) {
+                    q.push(y);
+                    prev[y]=x;//assign prev
+                }
+            }
+            iMax=x;
+        }
+        vector<int> ans;
+        for (int j=iMax; j!=-1; j=prev[j]) {
+            ans.push_back(nums[j]);
+        }
+        return ans;
     }
 };
