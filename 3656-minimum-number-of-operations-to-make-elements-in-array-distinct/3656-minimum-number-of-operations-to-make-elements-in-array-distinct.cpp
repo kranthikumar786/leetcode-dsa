@@ -7,16 +7,35 @@ public:
    
     //     return ((n/3-1) + nums[n-3] );
     // }
-     unordered_set<int>seen;
-     for(int i = n-1; i >= 0 ; i--) {
-          if(seen.find(nums[i]) == seen.end()) {
-               seen.insert(nums[i]);
-          }else{
-            int f = i+1;
-             return (f/3 + (f%3 !=0));
-          }
-     }
-    return 0;        
+      //unordered_set<int>seen;
+    //   int setBitValue = 0;
+    
+    //int setBitValue = 0;
+    bitset<101> setBitValue;
+    for (int i = n - 1; i >= 0; i--) {
+        if(!setBitValue.test(nums[i])){
+            setBitValue.set(nums[i]);
+        
+    // if ((setBitValue & (1 << nums[i])) == 0) {
+    //     setBitValue |= (1 << nums[i]);  // Set only that bit
+    } else {
+        int f = i + 1;
+        return (f + 2) / 3; // ceil(f / 3)
+    }}
+
+return 0;
+
+    //  for(int i = n-1; i >= 0 ; i--) {
+    //       if((setBitValue & nums[i]) == 0) {
+    //            setBitValue |= nums[i];
+    //       }else{
+    //         // int f = i+1;
+    //         //  return (f/3 + (f%3 !=0));
+    //         int f = i + 1;
+    //     return (f + 2) / 3;
+    //       }
+    //  }
+    // return 0;        
 
    /**[1,2,3,4,2,3,3,5,7]
        
