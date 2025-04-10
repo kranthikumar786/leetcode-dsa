@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Stack
@@ -606,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
