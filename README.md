@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
@@ -586,12 +587,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
