@@ -591,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2050-count-good-numbers) |
 ## Math
 |  |
 | ------- |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
