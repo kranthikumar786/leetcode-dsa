@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
@@ -526,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
