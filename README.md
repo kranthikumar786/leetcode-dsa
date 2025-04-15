@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1558-course-schedule-iv) |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
@@ -506,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1093-recover-a-tree-from-preorder-traversal) |
