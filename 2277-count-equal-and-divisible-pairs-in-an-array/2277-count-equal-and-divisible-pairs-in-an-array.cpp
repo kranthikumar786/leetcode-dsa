@@ -13,20 +13,43 @@ public:
              return 0;
         }
      int numberOfPairs = 0 ; 
-      unordered_map<int,vector<int>>valuemapWithIndices(101);
-   for(int i = 0 ; i < n ;i++) {
-        valuemapWithIndices[nums[i]].push_back(i); 
-        }
-      for(int i = 0 ;i < n ;i++) {
-           for(auto second : valuemapWithIndices[nums[i]]) {
-                 if( i != second && isDivisiblebyK(second * i , k)) {
-                     numberOfPairs++;
-                 }
-           }
-          valuemapWithIndices[nums[i]].erase(valuemapWithIndices[nums[i]].begin());
-          // valuemapWithIndices[nums[i]].pop_front();  
+
+    /* using dequeue*/
+     
+     unordered_map<int,deque<int>>valuemapWithIndices(101);
+     for(int i = 0 ;i < n ;i++) {
+        valuemapWithIndices[nums[i]].push_back(i);  
+     }
+     for(int i = 0 ;i < n ; i++) {
+          
+          for(auto node:valuemapWithIndices[nums[i]]) {
+               if( i != node && isDivisiblebyK(i*node,k)){
+                  numberOfPairs++;
+               }
+          }
+          valuemapWithIndices[nums[i]].pop_front();
+     }
+     return numberOfPairs;  
+  }
+};
+
+ //==========================================================================
+    
+
+//       unordered_map<int,vector<int>>valuemapWithIndices(101);
+//    for(int i = 0 ; i < n ;i++) {
+//         valuemapWithIndices[nums[i]].push_back(i); 
+//         }
+//       for(int i = 0 ;i < n ;i++) {
+//            for(auto second : valuemapWithIndices[nums[i]]) {
+//                  if( i != second && isDivisiblebyK(second * i , k)) {
+//                      numberOfPairs++;
+//                  }
+//            }
+//           valuemapWithIndices[nums[i]].erase(valuemapWithIndices[nums[i]].begin());
+//           // valuemapWithIndices[nums[i]].pop_front();  
            // this will O(n) time : 
-      }
+      //}
       //return numberOfPairs;
     //   
     //    for(int i = 0 ;i < n ; i++) {
@@ -36,7 +59,7 @@ public:
     //               } 
     //         }
     //    }
-  return numberOfPairs;
+ // return numberOfPairs;
 
  /*
    optimzation thoughts: 
@@ -117,8 +140,7 @@ public:
    Maintinability : Modulized the code so yes: 
 
    */
-    }
-};
+   
 /*
 ==========================================================
  Improvement Part:
