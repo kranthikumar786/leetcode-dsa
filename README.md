@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Array
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2690-house-robber-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2792-neighboring-bitwise-xor) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2681-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3001-apply-operations-to-maximize-score) |
