@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Rolling Hash
 |  |
