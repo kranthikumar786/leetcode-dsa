@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -745,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
