@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3438-peaks-in-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3438-peaks-in-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -744,10 +745,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
+| [3438-peaks-in-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3438-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
+| [3438-peaks-in-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3438-peaks-in-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
