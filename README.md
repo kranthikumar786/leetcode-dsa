@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
