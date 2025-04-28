@@ -1,90 +1,120 @@
 class Solution {
 public:
-    vector<long long> segmentTree;
-    
-    void buildSegmentTree(int index, int leftPtr, int rightPtr, vector<int>& nums) {
-        if(leftPtr == rightPtr) {
-            segmentTree[index] = nums[leftPtr];
-            return;
-        }
-        int mid = (leftPtr + rightPtr) >> 1;
-        buildSegmentTree(2*index+1, leftPtr, mid, nums);
-        buildSegmentTree(2*index+2, mid+1, rightPtr, nums);
-        segmentTree[index] = segmentTree[2*index+1] + segmentTree[2*index+2];
-    }
-    
-    long long query(int sIndex, int left, int right, int Qleft, int Qright) {
-        if(Qright < left || Qleft > right) {
-            return 0;
-        }
-        if(Qleft <= left && right <= Qright) {
-            return segmentTree[sIndex];
-        }
-        int mid = (left + right) >> 1;
-        long long leftV = query(2*sIndex+1, left, mid, Qleft, Qright);
-        long long rightV = query(2*sIndex+2, mid+1, right, Qleft, Qright);
-        return leftV + rightV;
-    }
-    
-    long long countSubarrays(vector<int>& nums, long long k) {
+  long long countSubarrays(vector<int>& nums, long long k) {
         int n = nums.size();
-        segmentTree.resize(4 * n);
-        buildSegmentTree(0, 0, n-1, nums);
-        
         long long ans = 0;
-        for(int i = 0; i < n; i++) {
-            int left = i, right = n-1, best = i-1;
-            while(left <= right) {
-                int mid = (left + right) >> 1;
-                long long sum = query(0, 0, n-1, i, mid);
-                int dist = mid - i + 1;
-                if(sum * dist < k) {
-                    best = mid;
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
-            }
-            ans += (best - i + 1);
-        }
+         deque<int>de;
+         long long sum = 0 ;
+         for(int i = 0 ; i < n ;i++) {
+                de.push_back(nums[i]);
+              sum += nums[i];
+               while(sum * de.size() >= k) {
+                     sum -= de.front();
+                     de.pop_front();
+               }
+            ans += (de.size()); 
+         }
         return ans;
     }
 };
 
+
+
+
+
+
+
+
+
+
+
 // class Solution {
 // public:
-//     vector<long long >segmentTree;
-//    void buildSegementTree(int index, int leftPtr, int rightPtr,vector<int>& nums){
-//            if(leftPtr == rightPtr){
-//                segmentTree[index] = nums[leftPtr];
-//                return ;
-//            }
-//       int mid = (leftPtr + rightPtr) >>1;
-//         buildSegementTree(2*index+1,leftPtr, mid,nums);
-//        buildSegementTree(2*index+2,mid+1,rightPtr,nums);
-//    segmentTree[index] = segmentTree[2*index+1]+ segmentTree[2*index+2]; 
-//    }
-// long long query(int sIndex,int left, int right,int Qleft,int Qright) {    
-//       if(Qleft > right || Qright < left) {
-//           return 0;
-//       }
-//       if(left <= Qleft && Qright <= right ) {
-//           return segmentTree[sIndex];
-//       }
-//       int mid= (left + right)>>1; 
-//      long long leftV = query(2*sIndex+1, left, mid,Qleft,Qright);
-//      long long  rightV = query(2*sIndex+2, mid+1,right,Qleft,Qright); 
-//     return leftV + rightV; 
-// }
+//     vector<long long> segmentTree;
+    
+//     void buildSegmentTree(int index, int leftPtr, int rightPtr, vector<int>& nums) {
+//         if(leftPtr == rightPtr) {
+//             segmentTree[index] = nums[leftPtr];
+//             return;
+//         }
+//         int mid = (leftPtr + rightPtr) >> 1;
+//         buildSegmentTree(2*index+1, leftPtr, mid, nums);
+//         buildSegmentTree(2*index+2, mid+1, rightPtr, nums);
+//         segmentTree[index] = segmentTree[2*index+1] + segmentTree[2*index+2];
+//     }
+    
+//     long long query(int sIndex, int left, int right, int Qleft, int Qright) {
+//         if(Qright < left || Qleft > right) {
+//             return 0;
+//         }
+//         if(Qleft <= left && right <= Qright) {
+//             return segmentTree[sIndex];
+//         }
+//         int mid = (left + right) >> 1;
+//         long long leftV = query(2*sIndex+1, left, mid, Qleft, Qright);
+//         long long rightV = query(2*sIndex+2, mid+1, right, Qleft, Qright);
+//         return leftV + rightV;
+//     }
+    
 //     long long countSubarrays(vector<int>& nums, long long k) {
-//        int n = nums.size();
-//        segmentTree.resize(4*n,0);
-//        buildSegementTree(0,0,n-1,nums);
-//     long long ans = 0;
-//        for(int i = 0 ;i < n ;i++) {
-//            int left = i , right = n-1;
+//         int n = nums.size();
+//         segmentTree.resize(4 * n);
+//         buildSegmentTree(0, 0, n-1, nums);
+        
+//         long long ans = 0;
+//         for(int i = 0; i < n; i++) {
+//             int left = i, right = n-1, best = i-1;
 //             while(left <= right) {
-//                  int mid = (left + right ) >>1;
+//                 int mid = (left + right) >> 1;
+//                 long long sum = query(0, 0, n-1, i, mid);
+//                 int dist = mid - i + 1;
+//                 if(sum * dist < k) {
+//                     best = mid;
+//                     left = mid + 1;
+//                 } else {
+//                     right = mid - 1;
+//                 }
+//             }
+//             ans += (best - i + 1);
+//         }
+//         return ans;
+//     }
+// };
+
+// // class Solution {
+// // public:
+// //     vector<long long >segmentTree;
+// //    void buildSegementTree(int index, int leftPtr, int rightPtr,vector<int>& nums){
+// //            if(leftPtr == rightPtr){
+// //                segmentTree[index] = nums[leftPtr];
+// //                return ;
+// //            }
+// //       int mid = (leftPtr + rightPtr) >>1;
+// //         buildSegementTree(2*index+1,leftPtr, mid,nums);
+// //        buildSegementTree(2*index+2,mid+1,rightPtr,nums);
+// //    segmentTree[index] = segmentTree[2*index+1]+ segmentTree[2*index+2]; 
+// //    }
+// // long long query(int sIndex,int left, int right,int Qleft,int Qright) {    
+// //       if(Qleft > right || Qright < left) {
+// //           return 0;
+// //       }
+// //       if(left <= Qleft && Qright <= right ) {
+// //           return segmentTree[sIndex];
+// //       }
+// //       int mid= (left + right)>>1; 
+// //      long long leftV = query(2*sIndex+1, left, mid,Qleft,Qright);
+// //      long long  rightV = query(2*sIndex+2, mid+1,right,Qleft,Qright); 
+// //     return leftV + rightV; 
+// // }
+// //     long long countSubarrays(vector<int>& nums, long long k) {
+// //        int n = nums.size();
+// //        segmentTree.resize(4*n,0);
+// //        buildSegementTree(0,0,n-1,nums);
+// //     long long ans = 0;
+// //        for(int i = 0 ;i < n ;i++) {
+// //            int left = i , right = n-1;
+// //             while(left <= right) {
+// //                  int mid = (left + right ) >>1;
 //                  long long sum = query(0,0,n-1,left, mid);
 //                    int dist = mid - left +1; 
 //                   if((sum * dist)  < k){
