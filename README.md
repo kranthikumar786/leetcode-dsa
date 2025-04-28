@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2915-count-of-interesting-subarrays) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3355-minimum-levels-to-gain-more-points) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2326-sum-of-scores-of-built-strings) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2591-frog-jump-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2665-minimum-time-to-repair-cars) |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
