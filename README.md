@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3429-special-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3643-zero-array-transformation-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3001-apply-operations-to-maximize-score) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
@@ -756,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3001-apply-operations-to-maximize-score) |
+| [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Enumeration
 |  |
 | ------- |
