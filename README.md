@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
+| [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
