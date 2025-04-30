@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
+| [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
+| [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1364-tuple-with-same-product](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -722,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0307-range-sum-query-mutable) |
+| [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2434-design-a-number-container-system) |
@@ -779,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0307-range-sum-query-mutable) |
+| [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [3438-peaks-in-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3438-peaks-in-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
