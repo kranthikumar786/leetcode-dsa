@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2308-divide-array-into-equal-pairs) |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
