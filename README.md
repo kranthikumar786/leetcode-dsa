@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
