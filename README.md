@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
+| [0813-all-paths-from-source-to-target](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
+| [0813-all-paths-from-source-to-target](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1558-course-schedule-iv) |
@@ -606,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
+| [0813-all-paths-from-source-to-target](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -770,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
