@@ -22,6 +22,8 @@ public:
             int curRow = currentRoom.second.first;
             int curCol = currentRoom.second.second;
 
+            if (currentTime > DP[curRow][curCol]) continue;
+
             if (curRow == totalRows - 1 && curCol == totalColumns - 1) {
                 return currentTime;
             }
