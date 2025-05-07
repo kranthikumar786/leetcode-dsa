@@ -1,5 +1,24 @@
 class Solution {
 public:
+    bool carPooling(vector<vector<int>>& trips, int capacity) {
+
+      vector<int>diffarray(1001,0);
+       for(auto trip : trips){
+        diffarray[trip[1]] += trip[0];
+        diffarray[trip[2]] -= trip[0];
+       }
+
+     for(int i = 0; i < 1001; i++) {
+          capacity -= diffarray[i];
+          if(capacity < 0){return 0;}
+     } 
+     return capacity >=0 ;
+    }
+};
+
+/*
+class Solution {
+public:
    static bool Compare(vector<int>&a ,vector<int>&b){
        if(a[1] == b[1]) {
           return a[2] < b[2];
@@ -26,7 +45,6 @@ public:
       return true;
     }
 };
-/*
 [[2,1,5],[3,1,6],[3,1,7]]
 cp : 7 ,  flas3e
 cp : 8  true
