@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
+| [0945-snakes-and-ladders](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0945-snakes-and-ladders) |
 | [1035-cousins-in-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -644,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0945-snakes-and-ladders) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1396-count-servers-that-communicate](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
