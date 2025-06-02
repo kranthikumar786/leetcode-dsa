@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
