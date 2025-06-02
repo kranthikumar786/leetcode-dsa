@@ -15,15 +15,16 @@ public:
       if(!root){return nullptr;}
     if(root->val == val){
      return root;}
-    TreeNode* left1 = nullptr ;
-    TreeNode* right1 = nullptr;
+    // TreeNode* left1 = nullptr ;
+    // TreeNode* right1 = nullptr;
     if(root->val > val) { 
-      left1 =  searchBST(root->left, val);
+       return  searchBST(root->left, val);
     }
-    if( left1 ){
-     return left1;
-    }
-    right1 =  searchBST(root->right,val);
-    return right1;
+    // if( left1 ){
+    //  return left1;
+    // }
+    //right1 =  
+    return searchBST(root->right,val);
+   // return right1;
     }
 };
