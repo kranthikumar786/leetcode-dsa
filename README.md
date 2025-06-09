@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
