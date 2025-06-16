@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
