@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
