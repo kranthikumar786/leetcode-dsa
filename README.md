@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0145-binary-tree-postorder-traversal) |
