@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -606,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2434-design-a-number-container-system](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
