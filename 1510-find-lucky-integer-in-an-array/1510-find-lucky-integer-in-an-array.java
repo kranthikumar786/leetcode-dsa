@@ -6,12 +6,12 @@ class Solution {
         frequncy.put(num,numFre+1);
       }
 
-int ans = -1;
+int lucky_integer = -1;
 for (Map.Entry<Integer, Integer> fr : frequncy.entrySet()) {
     if (fr.getKey().equals(fr.getValue())) {
-        ans = Math.max(ans, fr.getValue());
+        lucky_integer = Math.max(lucky_integer, fr.getValue());
     }
 }
-   return ans;
+   return lucky_integer;
     }
 }
