@@ -9,9 +9,10 @@ class Solution {
       int lucky_integer = -1;
       for(int key : frequncy.keySet()) {
         if(frequncy.get(key) == key) {
-          lucky_integer = key;
+         // lucky_integer = key;
+         lucky_integer = Math.max(lucky_integer,key);
        }
-    }
+     }
    return lucky_integer;
     }
 }
