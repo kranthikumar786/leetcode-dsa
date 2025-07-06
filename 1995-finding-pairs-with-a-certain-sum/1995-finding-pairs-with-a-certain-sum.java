@@ -1,19 +1,13 @@
 class FindSumPairs {
- 
-//    int[] arr1 ;
-//    int[] arr2;
-    int n2 ;
- 
   HashMap<Integer,Integer>index2ToValue = new HashMap<>();
   HashMap<Integer,Integer>value2ToFrequency = new HashMap<>();
   HashMap<Integer,Integer>value1ToFrequncy = new HashMap<>(); 
     public FindSumPairs(int[] nums1, int[] nums2) {
-        n2 = nums2.length;
        for(int num : nums1) {
           int fre = value1ToFrequncy.getOrDefault(num,0);
           value1ToFrequncy.put(num,fre+1);
        }
-       for(int i = 0 ; i < n2 ; i++) {
+       for(int i = 0 ; i < nums2.length ; i++) {
          index2ToValue.put(i,nums2[i]);
          int fre = value2ToFrequency.getOrDefault(nums2[i],0);
          value2ToFrequency.put(nums2[i],fre+1);
@@ -31,17 +25,36 @@ class FindSumPairs {
     }
     public int count(int tot) {
          int pairsCnt = 0 ;
-        
           for(Map.Entry<Integer,Integer> entry : value1ToFrequncy.entrySet() ) {
               int val1 = entry.getKey();
               int freq1 = entry.getValue();
               int complement = tot - val1;
               int freq2 = value2ToFrequency.getOrDefault(complement,0);
+              /**
+              int frq = value2ToFrequency.get(complement);  //  if complement not present then  This will throw a NullPointerException
+ */
               pairsCnt += (freq1 * freq2);
           }
      return pairsCnt;
     }
 /*
+   
+
+ TimeComplexity : 
+     FindSumPairs constructor: O(n1 + n2) only one time at begining
+     add(): O(1) : 
+    count(): O(u1) : 
+
+Space Complexity : 
+ = O(u1 + u2 + n2)
+
+
+
+
+
+
+
+
 FindSumPairs findSumPairs = new FindSumPairs(
      0  1  2  3  4  5 
     [1, 1, 2, 2, 2, 3], 
