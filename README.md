@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2107-find-unique-binary-string) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -995,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
