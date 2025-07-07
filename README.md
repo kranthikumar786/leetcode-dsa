@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
