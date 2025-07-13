@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2591-frog-jump-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2591-frog-jump-ii) |
@@ -650,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2681-put-marbles-in-bags) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
