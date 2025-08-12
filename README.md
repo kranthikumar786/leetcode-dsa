@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3243-count-the-number-of-powerful-integers) |
