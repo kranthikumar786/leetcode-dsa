@@ -494,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1008,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1020,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0826-soup-servings) |
