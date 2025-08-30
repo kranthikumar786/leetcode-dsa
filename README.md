@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
@@ -860,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0085-maximal-rectangle) |
