@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
