@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
@@ -754,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
@@ -795,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0744-network-delay-time) |
@@ -910,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
