@@ -10,23 +10,17 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-
-     int totalCnt = 0;
-     ListNode temp = head;
-     while(temp != null) {
-        totalCnt++;
-        temp = temp.next;
+     ListNode dummy = new ListNode(0,head);
+     ListNode first = dummy, second = dummy;
+       for(int i = 0 ; i <=n ; i++) {
+             first = first.next;
        }
-      if(n == totalCnt) {
-           return head.next;
-      }
-       temp = head;
-      for(int i = 1; i < totalCnt - n ; i++) {
-             temp = temp.next;
-      } 
-        temp.next = temp.next.next;
-       // above is assigning , not moving
-     return head;
+       while(first != null) {
+          first = first.next;
+          second = second.next;
+       } 
+        second.next = second.next.next;
+        return dummy.next;
     }
 }
 /**
@@ -59,6 +53,25 @@ class Solution {
           head = head.next;
       } 
      return temp1;
+
+
+int totalCnt = 0;
+     ListNode temp = head;
+     while(temp != null) {
+        totalCnt++;
+        temp = temp.next;
+       }
+      if(n == totalCnt) {
+           return head.next;
+      }
+       temp = head;
+      for(int i = 1; i < totalCnt - n ; i++) {
+             temp = temp.next;
+      } 
+        temp.next = temp.next.next;
+       // above is assigning , not moving
+     return head;
+
 
         /**
         1  find the no.of elemtns presen tin the list : 
