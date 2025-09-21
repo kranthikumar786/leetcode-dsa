@@ -17,13 +17,16 @@ class MovieRentingSystem {
         if(c != 0) return c;
         return Integer.compare(a.movieId,b.movieId);  
     };
-
    private final HashMap<Integer,TreeSet<MovieEntry>>availableByMovie = new HashMap<>();
    private final TreeSet<MovieEntry>rentedSet = new TreeSet<>(CMP);
    private final HashMap<Long,MovieEntry>byPair = new HashMap<>();
-   private static long key(int shop, int movie) {
-        return (((long) shop) << 32) ^ (movie & 0xffffffffL);
-    }
+//    private static long key(int shop, int movie) {
+//         return (((long) shop) << 32) ^ (movie & 0xffffffffL);
+//     }
+private static long key(int shop, int movie) {
+    return (((long) shop) << 32) | (movie & 0xffffffffL);
+}
+
     public MovieRentingSystem(int n, int[][] entries) {
       for(int [] e : entries) {
           int shopId = e[0] ;int movieId = e[1]; int price = e[2];
