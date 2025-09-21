@@ -1085,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
