@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-push-dominoes) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
@@ -691,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -776,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
