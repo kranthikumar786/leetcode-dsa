@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -1135,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
@@ -1341,6 +1343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
