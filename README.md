@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0166-fraction-to-recurring-decimal) |
