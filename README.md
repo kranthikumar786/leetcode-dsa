@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
@@ -621,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
