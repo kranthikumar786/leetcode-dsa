@@ -6,18 +6,19 @@ class Solution {
         int leftPtr = 0 ;
         int rightPtr = s.length()-1;
            while(leftPtr < rightPtr) {    
-            if(Character.toLowerCase(s.charAt(leftPtr)) == Character.toLowerCase(s.charAt(rightPtr))) {
-                   leftPtr++;
-                   rightPtr--;
-                   continue;
-            }
-            if(!isAlphaNumeric(s.charAt(leftPtr))) {
-               leftPtr++;
-            } else if(!isAlphaNumeric(s.charAt(rightPtr))) {
-                 rightPtr--;
-            } else{
-                return false;
-            }
+                while(leftPtr < rightPtr && !isAlphaNumeric(s.charAt(leftPtr))) {
+                       leftPtr++;
+                }
+                while(leftPtr < rightPtr && !isAlphaNumeric(s.charAt(rightPtr))) {
+                        rightPtr--;
+                }
+              char leftChar = Character.toLowerCase(s.charAt(leftPtr));
+              char rightChar = Character.toLowerCase(s.charAt(rightPtr));
+              if(leftChar != rightChar) {
+                 return false;
+              }   
+            leftPtr++;
+            rightPtr--;  
         }
         return true;
     }
