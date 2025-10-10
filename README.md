@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3355-minimum-levels-to-gain-more-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-range-product-queries-of-powers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2915-count-of-interesting-subarrays) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3639-zero-array-transformation-i) |
