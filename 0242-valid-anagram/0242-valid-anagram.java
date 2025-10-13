@@ -1,6 +1,19 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        HashMap<Character,Integer>hm = new HashMap<>();
+       int arr[] = new int[26];
+       if(s.length() != t.length()) return false;
+       for(int i  = 0 ;i < s.length() ; i++){
+              arr[s.charAt(i) -'a']++;
+              arr[t.charAt(i) -'a']--;
+       }
+       for(int i = 0 ; i < 26 ; i++) {
+              if(arr[i] != 0) return false;
+       }
+       return true;
+    }
+}
+/**
+HashMap<Character,Integer>hm = new HashMap<>();
         if(s.length() != t.length()) return false;
         
         for(char ch : s.toCharArray()){
@@ -16,5 +29,4 @@ class Solution {
              }
         }
        return hm.isEmpty();  
-    }
-}
+ */
