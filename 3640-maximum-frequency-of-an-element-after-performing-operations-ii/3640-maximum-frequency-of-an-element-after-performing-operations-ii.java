@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private int check(int[] nums, int n, int t, int m) {
         long nL = n;
