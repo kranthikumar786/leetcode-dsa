@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1210,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0206-reverse-linked-list) |
