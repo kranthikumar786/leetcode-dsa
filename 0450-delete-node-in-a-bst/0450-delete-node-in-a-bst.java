@@ -13,28 +13,59 @@ class Solution {
     //     root.right = newroot(arr, m + 1, e);
     //     return root;
     // }
-    public TreeNode deleteNode(TreeNode root, int key) {
-           if(root == null){return root;}
-           if(root.val < key){
-             root.right = deleteNode(root.right,key);
-           } else if(root.val > key){
-                root.left =  deleteNode(root.left,key);
-           } else{
-            if(root.left == null) return root.right;
-                else if(root.right == null) return root.left;
-                TreeNode successor = findMin(root.right);
-                root.val = successor.val;
-                root.right = deleteNode(root.right,successor.val); 
-           }   
-           return root;  
-    }
-  private TreeNode findMin(TreeNode root){
-        TreeNode node = root;
-        while(node.left != null){
-            node = node.left;
+//     public TreeNode deleteNode(TreeNode root, int key) {
+//            if(root == null){return root;}
+//            if(root.val < key){
+//              root.right = deleteNode(root.right,key);
+//            } else if(root.val > key){
+//                 root.left =  deleteNode(root.left,key);
+//            } else{
+//             if(root.left == null) return root.right;
+//                 else if(root.right == null) return root.left;
+//                 TreeNode successor = findMin(root.right);
+//                 root.val = successor.val;
+//                 root.right = deleteNode(root.right,successor.val); 
+//            }   
+//            return root;  
+//     }
+//   private TreeNode findMin(TreeNode root){
+//         TreeNode node = root;
+//         while(node.left != null){
+//             node = node.left;
+//         }
+//        return node; 
+//   }
+
+TreeNode deleteNode(TreeNode root, int key) {
+    if (root == null) return null;
+
+    if (key < root.val)
+        root.left = deleteNode(root.left, key);
+    else if (key > root.val)
+        root.right = deleteNode(root.right, key);
+    else {
+        if (root.left == null) return root.right;
+        else if (root.right == null) return root.left;
+
+        // Find successor and parent
+        TreeNode parent = root;
+        TreeNode succ = root.right;
+        while (succ.left != null) {
+            parent = succ;
+            succ = succ.left;
         }
-       return node; 
-  }   
+
+        // Replace value
+        root.val = succ.val;
+
+        // Delete successor directly
+        if (parent.left == succ) parent.left = succ.right;
+        else parent.right = succ.right;
+    }
+    return root;
+}
+
+
 }
 /**
 if (root == null) return null;
