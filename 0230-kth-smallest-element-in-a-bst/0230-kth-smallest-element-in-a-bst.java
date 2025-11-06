@@ -16,13 +16,18 @@
 class Solution {
     int ans = -1;
     int cnt = 0;
+    boolean found = false;
       void preOrder(TreeNode root, int k){
           if(root == null) return ;
+
           preOrder(root.left,k);
+           if(found) return;
           cnt++;
+          
           if(cnt == k && ans == -1){
                ans = root.val;
-              System.out.println(ans); 
+               found = true;
+               return; 
           }
           preOrder(root.right,k);
       }
