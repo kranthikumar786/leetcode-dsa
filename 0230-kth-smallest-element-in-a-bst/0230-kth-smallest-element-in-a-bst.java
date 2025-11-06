@@ -17,10 +17,10 @@ class Solution {
     int ans = -1;
     int cnt = 0;
     boolean found = false;
-      void preOrder(TreeNode root, int k){
+      void inOrder(TreeNode root, int k){
           if(root == null) return ;
 
-          preOrder(root.left,k);
+          inOrder(root.left,k);
            if(found) return;
           cnt++;
           
@@ -29,10 +29,10 @@ class Solution {
                found = true;
                return; 
           }
-          preOrder(root.right,k);
+          inOrder(root.right,k);
       }
     public int kthSmallest(TreeNode root, int k) {
-     preOrder(root,k);
+     inOrder(root,k);
      return ans;
     }
 }
