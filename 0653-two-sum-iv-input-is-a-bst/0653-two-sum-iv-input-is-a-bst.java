@@ -16,14 +16,28 @@
 class Solution {
     HashSet<Integer>ele =new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {    
-       if(root == null) return false;
-      if(ele.contains(k-root.val)) return true;
-       ele.add(root.val);
-      return findTarget(root.left,k) || findTarget(root.right,k);  
+       TreeNode cur = root;
+       Stack<TreeNode > st = new Stack<>();
+        while(cur != null || !st.isEmpty()){
+               while(cur != null) {
+                   st.push(cur);
+                    cur = cur.left;
+               }
+               cur = st.pop();
+              if(ele.contains(k-cur.val)) return true;
+              ele.add(cur.val);
+               cur = cur.right;   
+        }
+        return false; 
     }
 }
 
 /**
+
+if(root == null) return false;
+      if(ele.contains(k-root.val)) return true;
+       ele.add(root.val);
+      return findTarget(root.left,k) || findTarget(root.right,k);  
 
 /**
 class Solution {
