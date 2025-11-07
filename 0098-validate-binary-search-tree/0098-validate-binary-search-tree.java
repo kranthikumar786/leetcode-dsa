@@ -16,10 +16,25 @@
 class Solution {
     TreeNode prev = null;
     public boolean isValidBST(TreeNode root) {
-       if(root == null) return true;
+      Stack<TreeNode>st = new Stack<>();
+     TreeNode cur = root, prev = null;
+     while(cur != null || !st.isEmpty()){
+             while(cur != null) {
+                st.push(cur);
+                cur = cur.left;
+             }
+            cur = st.pop();
+             if(prev != null && prev.val >= cur.val) return false;
+            prev = cur;
+            cur = cur.right;    
+     }
+     return true; 
+    }
+}
+/**
+   if(root == null) return true;
        if(!isValidBST(root.left)) return false;
        if(prev != null && prev.val >= root.val) return false;
         prev = root;
-        return isValidBST(root.right); 
-    }
-}
+        return isValidBST(root.right);
+ */
