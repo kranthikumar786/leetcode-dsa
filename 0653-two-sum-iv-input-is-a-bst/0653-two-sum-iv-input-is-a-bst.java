@@ -14,6 +14,19 @@
  * }
  */
 class Solution {
+    HashSet<Integer>ele =new HashSet<>();
+    public boolean findTarget(TreeNode root, int k) {    
+       if(root == null) return false;
+      if(ele.contains(k-root.val)) return true;
+       ele.add(root.val);
+      return findTarget(root.left,k) || findTarget(root.right,k);  
+    }
+}
+
+/**
+
+/**
+class Solution {
     List<Integer>in1 = new ArrayList<>();
     void in(TreeNode root, int k){
          if(root == null) {return;}
@@ -36,4 +49,4 @@ class Solution {
        }    
       return false; 
     }
-}
+} */
