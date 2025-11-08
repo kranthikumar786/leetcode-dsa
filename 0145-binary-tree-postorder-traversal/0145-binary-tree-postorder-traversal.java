@@ -14,17 +14,44 @@
  * }
  */
 class Solution {
-    public void postOrder(TreeNode root , List<Integer>ans){
-          if(root == null) {
-             return;
-          }
-        postOrder(root.left,ans);
-        postOrder(root.right,ans);
-        ans.add(root.val);
-    }
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer>ans = new ArrayList<>();
-        postOrder(root,ans);
-        return ans;
+     Stack<TreeNode> st = new Stack<>();
+     List<Integer>ans = new ArrayList<>();
+      if(root == null)return ans;
+      TreeNode cur = root;
+      TreeNode lastVistied = null;
+       while(cur != null || !st.isEmpty()){
+               while(cur != null){
+                    st.push(cur);
+                    cur = cur.left;
+               } 
+               cur = st.peek();
+               if(cur.right == null ||  lastVistied == cur.right){
+                   ans.add(cur.val);
+                   st.pop();
+                lastVistied = cur;
+                cur = null;
+               } else{cur = cur.right;}  
+       }
+       return ans;
+     /**
+        root.left : 
+        root.right :
+         root.val :
+
+       save root  :
+          1
+           2
+              4
+
+
+            4
+            2 :  once popped measn check only rihg tside vlues:
+                  
+            1 
+
+
+      */
+
     }
 }
