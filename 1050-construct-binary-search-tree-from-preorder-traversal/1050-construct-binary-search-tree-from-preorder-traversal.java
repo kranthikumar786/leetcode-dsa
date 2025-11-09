@@ -14,8 +14,22 @@
  * }
  */
 class Solution {
-    
-    public TreeNode createBst(int arr[],int s, int e){
+    int index = 0;
+    public TreeNode createBst(int arr[],int upperBound){
+         if(index == arr.length || arr[index] > upperBound){return null;}
+         TreeNode root = new TreeNode(arr[index++]);
+         root.left = createBst(arr,root.val);
+         root.right = createBst(arr,upperBound);
+         return root;
+    }  
+    public TreeNode bstFromPreorder(int[] preorder) {
+     int n = preorder.length; 
+     return createBst(preorder,1001);   
+    }
+}
+/**
+
+public TreeNode createBst(int arr[],int s, int e){
           if(s > e) return null;
           TreeNode root = new TreeNode(arr[s]);
           int lastIndex =e+1;
@@ -29,12 +43,6 @@ class Solution {
            root.right = createBst(arr,lastIndex,e);
            return root;
     }
-    public TreeNode bstFromPreorder(int[] preorder) {
-     return createBst(preorder,0,preorder.length-1);   
-    }
-}
-/**
-
 public TreeNode createBst(int[] arr, int s, int e){
           if(s > e) return null;
           if(s == e) {return new TreeNode(arr[s]);}
