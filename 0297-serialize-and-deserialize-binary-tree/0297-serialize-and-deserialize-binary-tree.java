@@ -10,6 +10,45 @@
 public class Codec {
 
     // Encodes a tree to a single string.
+    StringBuilder str = new StringBuilder();
+    int index  = -1;
+       public void C(TreeNode root) {
+             if(root == null){
+                str.append("# ");
+                 return ;
+             }
+            str.append(root.val +" ");
+            C(root.left);
+            C(root.right); 
+       }
+    public String serialize(TreeNode root) {
+        C(root);
+      return str.toString();
+     }
+    // Decodes your encoded data to tree.
+    public TreeNode deserialize(String data) {
+      String nodes[] = data.split(" ");
+      return BuildTree(nodes);       
+    }
+    public TreeNode BuildTree(String[] data){
+        index++;
+         if(data[index].equals("#")) {
+               return null;
+         }
+        TreeNode root = new TreeNode(Integer.parseInt(data[index]));
+         root.left = BuildTree(data);
+         root.right = BuildTree(data);
+       return root;   
+    }
+}
+
+// Your Codec object will be instantiated and called as such:
+// Codec ser = new Codec();
+// Codec deser = new Codec();
+// TreeNode ans = deser.deserialize(ser.serialize(root));
+/**
+public class Codec {
+
     public String serialize(TreeNode root) {
        if(root == null) return "";
        StringBuilder str = new StringBuilder();
@@ -28,7 +67,6 @@ public class Codec {
      return str.toString();
     }
 
-    // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
        if(data == "") return null;
         Queue<TreeNode>q = new LinkedList<>();
@@ -51,8 +89,4 @@ public class Codec {
          return root;
     }
 }
-
-// Your Codec object will be instantiated and called as such:
-// Codec ser = new Codec();
-// Codec deser = new Codec();
-// TreeNode ans = deser.deserialize(ser.serialize(root));
+ */
