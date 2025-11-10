@@ -17,7 +17,35 @@ class Solution {
     HashSet<Integer>ele =new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {    
        TreeNode cur = root;
-       Stack<TreeNode > st = new Stack<>();
+        while(cur != null){
+             if(cur.left == null) {
+                    if(ele.contains(k-cur.val)) return true;
+                    ele.add(cur.val);
+                    
+                   cur = cur.right; 
+             } else{
+                  TreeNode pre = cur.left;
+                  while(pre.right != null && pre.right != cur){
+                          pre = pre.right;
+                  }
+                   if(pre.right == null){
+                       pre.right = cur;
+                       cur = cur.left;
+                   } else{
+                       pre.right = null;
+                       if(ele.contains(k-cur.val)) return true;
+                       ele.add(cur.val);
+                   cur = cur.right;
+                   }
+             }
+        }
+        return false; 
+    }
+}
+
+/**
+
+Stack<TreeNode > st = new Stack<>();
         while(cur != null || !st.isEmpty()){
                while(cur != null) {
                    st.push(cur);
@@ -28,11 +56,7 @@ class Solution {
               ele.add(cur.val);
                cur = cur.right;   
         }
-        return false; 
-    }
-}
 
-/**
 
 if(root == null) return false;
       if(ele.contains(k-root.val)) return true;
