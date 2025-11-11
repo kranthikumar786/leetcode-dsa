@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0747-min-cost-climbing-stairs) |
