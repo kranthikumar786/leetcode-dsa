@@ -14,9 +14,21 @@
  * }
  */
 class Solution {
+    TreeNode prev = null;
     public void flatten(TreeNode root) {
        if(root == null) return;
-       Stack<TreeNode>st = new Stack<>();
+        flatten(root.right);
+        flatten(root.left);
+        root.right = prev;
+        root.left = null;
+        prev = root; 
+    }
+}
+/**
+
+
+--------------------------
+ Stack<TreeNode>st = new Stack<>();
        TreeNode cur = root;
        st.push(root);
        while(!st.isEmpty()) {
@@ -28,11 +40,8 @@ class Solution {
                cur.left = null;
                }
          cur = cur.right;
-       }    
-    }
-}
-/**
-
+       }
+-------------------------
 TreeNode cur = root;
        Stack<TreeNode>st = new Stack<>();
          while(cur != null || !st.isEmpty()) {
