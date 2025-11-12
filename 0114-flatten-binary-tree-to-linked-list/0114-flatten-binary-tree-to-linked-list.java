@@ -18,7 +18,7 @@ class Solution {
        if(root == null) return;
        Stack<TreeNode>st = new Stack<>();
        TreeNode cur = root;
-       st.push(cur);
+       st.push(root);
        while(!st.isEmpty()) {
            cur = st.pop();
            if(cur.right != null) st.push(cur.right);
@@ -27,7 +27,6 @@ class Solution {
                cur.right = st.peek();
                cur.left = null;
                }
-
          cur = cur.right;
        }    
     }
