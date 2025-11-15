@@ -19,10 +19,11 @@ class MyStack {
     }
     public int top() {
         int topV  = -1;
-        while(!q2.isEmpty()) {
-        topV = q2.remove();
-          q1.add(topV);
+        while(q2.size() >1 ) {
+          q1.add(q2.remove());
       }   
+      topV = q2.remove();
+      q1.add(topV);
       Queue<Integer>t = q2;
       q2 = q1;
       q1 = t;
