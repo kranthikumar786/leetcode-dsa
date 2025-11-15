@@ -1,4 +1,23 @@
 class StockSpanner {
+   Stack<int[]>st ;
+    public StockSpanner() {
+        st = new Stack<>();
+    }
+    public int next(int price) {
+        int cnt = 1;
+        while(!st.isEmpty() &&  st.peek()[0] <= price){
+                 cnt += st.pop()[1];
+        } 
+        st.push(new int[]{price,cnt});
+       return cnt;   
+    }
+}
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner obj = new StockSpanner();
+ * int param_1 = obj.next(price);
+ class StockSpanner {
     List<Integer>l;
     public StockSpanner() {
         l = new ArrayList<>();
@@ -19,13 +38,5 @@ class StockSpanner {
      return cnt; 
     }
 }
-/**
- * Your StockSpanner object will be instantiated and called as such:
- * StockSpanner obj = new StockSpanner();
- * int param_1 = obj.next(price);
- A : [null,1,1,1,1,1,1,1]
-
- EP: [null,1,1,1,2,1,4,6]
-
-
+ 
  */
