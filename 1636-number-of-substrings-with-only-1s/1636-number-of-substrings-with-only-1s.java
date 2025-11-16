@@ -1,25 +1,34 @@
 class Solution {
     public int numSub(String s) {
         int n = s.length();
-        int leftPtr = 0, rightPtr = 0;
+        //int leftPtr = 0, rightPtr = 0;
         long ans = 0;
         int mod = 1_000_000_007;
-        while(rightPtr < n) {
-            if(s.charAt(rightPtr) == '0') {
-                int l = rightPtr - leftPtr;
-                if(l > 0){
-                   long sub = (1L*l * (l+1)/2)%mod;
-                   ans = (ans + sub)%mod;   
-                }
-                leftPtr = rightPtr+1;
+      int streak = 0;
+      for(char ch : s.toCharArray()){
+            if(ch == '1'){
+                   streak++;
+                ans = (ans +streak)%mod;
+            } else{
+                streak = 0;
             }
-            rightPtr++;
-        }
-             int l = rightPtr - leftPtr;
-                if(l > 0){
-                   long sub = (1L*l * (l+1)/2)%mod;
-                   ans = (ans + sub)%mod;   
-                }
+      }
+        // while(rightPtr < n) {
+        //     if(s.charAt(rightPtr) == '0') {
+        //         int l = rightPtr - leftPtr;
+        //         if(l > 0){
+        //            long sub = (1L*l * (l+1)/2)%mod;
+        //            ans = (ans + sub)%mod;   
+        //         }
+        //         leftPtr = rightPtr+1;
+        //     }
+        //     rightPtr++;
+        // }
+        //      int l = rightPtr - leftPtr;
+        //         if(l > 0){
+        //            long sub = (1L*l * (l+1)/2)%mod;
+        //            ans = (ans + sub)%mod;   
+        //         }
          return (int)ans;       
     }
 }
