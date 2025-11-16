@@ -1,24 +1,19 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-    HashMap<Integer,Integer> valueByIndex = new HashMap<>();
-    int n  = nums2.length;
-    for(int i = 0 ; i < n ;i++) {
-           valueByIndex.put(nums2[i],i); // {1->0,3->1, 4->2, 2->3}
-    }  
+    HashMap<Integer,Integer>nextGreastEle = new HashMap<>();
     Stack<Integer> st = new Stack<>();
-    int rightMax[] = new int[n];
-    for(int i = n-1; i >= 0 ;i--) {
-          while(!st.isEmpty() &&  st.peek()  < nums2[i] ) {
-               st.pop();
+    int n = nums2.length;
+    for(int i = n-1;  i >= 0 ;i--) {
+          while(!st.isEmpty() && st.peek() < nums2[i]) {
+                  st.pop();
           }
-         rightMax[i] = st.isEmpty() ? -1 : st.peek();
-         st.push(nums2[i]);     // [-1,-1]
-    }  
-   int ans [] = new int[nums1.length];
-   for(int  i = 0 ; i < nums1.length ;i++) {
-          int index = valueByIndex.get(nums1[i]);
-        ans[i] = rightMax[index];
-   }
+        nextGreastEle.put(nums2[i] , st.isEmpty()  ? -1: st.peek());
+        st.push(nums2[i]);  
+    }
+    int ans[] = new int[nums1.length];
+    for(int i = 0 ; i < nums1.length ;i++){
+         ans[i] = nextGreastEle.get(nums1[i]);
+    }
   return ans;  
       
       /**
@@ -63,6 +58,35 @@ Approach 3 :
 
     TC : O(n) : 
     Sc : O(n) + O(n) : (stack + rightMaxSuffix) :    
+
+HashMap<Integer,Integer> valueByIndex = new HashMap<>();
+    int n  = nums2.length;
+    for(int i = 0 ; i < n ;i++) {
+           valueByIndex.put(nums2[i],i); // {1->0,3->1, 4->2, 2->3}
+    }  
+    Stack<Integer> st = new Stack<>();
+    int rightMax[] = new int[n];
+    for(int i = n-1; i >= 0 ;i--) {
+          while(!st.isEmpty() &&  st.peek()  < nums2[i] ) {
+               st.pop();
+          }
+         rightMax[i] = st.isEmpty() ? -1 : st.peek();
+         st.push(nums2[i]);     // [-1,-1]
+    }  
+   int ans [] = new int[nums1.length];
+   for(int  i = 0 ; i < nums1.length ;i++) {
+          int index = valueByIndex.get(nums1[i]);
+        ans[i] = rightMax[index];
+   }
+
+
+Approach 4 : 
+
+ not required of addtion arary to stor enext greast eleemnt and
+  next where cur value is present 
+   both can be presented in one HashMap : 
+
+
        */  
 
     }
