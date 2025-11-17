@@ -1,4 +1,53 @@
 class MinStack {
+    Stack<Long> st;
+    long minV;
+
+    public MinStack() {
+        st = new Stack<>();
+    }
+
+    public void push(int val) {
+        long v = val;
+        if (st.isEmpty()) {
+            st.push(v);
+            minV = v;
+        } else {
+            if (v >= minV) {
+                st.push(v);
+            } else {
+                st.push(2 * v - minV);
+                minV = v;
+            }
+        }
+    }
+
+    public void pop() {
+        long v = st.pop();
+        if (v < minV) {
+            minV = 2 * minV - v;
+        }
+    }
+
+    public int top() {
+        long v = st.peek();
+        if (v < minV) return (int) minV;
+        return (int) v;
+    }
+
+    public int getMin() {
+        return (int) minV;
+    }
+}
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(val);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ 
+ class MinStack {
     Stack<int[]>st ;
     public MinStack() {
         st = new Stack<>();
@@ -22,42 +71,4 @@ class MinStack {
      return st.peek()[1];   
     }
 }
-
-/**
-class MinStack {
-    Stack<Integer>st,minStack;
-    public MinStack() {
-      st = new Stack<>();
-      minStack = new Stack<>();  
-    }
-    public void push(int val) {
-       st.push(val);
-       if(minStack.isEmpty()){
-       minStack.push(val);
-       } else{
-       if(minStack.peek() >= st.peek()){
-           minStack.push(val);
-         } 
-       }  
-    }
-    public void pop() {
-     int v = st.pop();
-     if(v == minStack.peek()){
-         minStack.pop();
-     }   
-    }
-    public int top() {
-      return st.isEmpty() ? 0 : st.peek();  
-    }
-    public int getMin() {
-     return minStack.isEmpty() ? 0 : minStack.peek();   
-    }
-}
-
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(val);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
  */
