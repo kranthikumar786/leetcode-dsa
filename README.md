@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
@@ -810,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0943-sum-of-subarray-minimums) |
@@ -1581,6 +1583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
