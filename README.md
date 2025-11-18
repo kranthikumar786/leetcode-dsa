@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0741-cherry-pickup) |
