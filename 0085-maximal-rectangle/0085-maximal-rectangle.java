@@ -1,34 +1,39 @@
 class Solution {
-    public int Hist(int[] prefixSum) {
-        int n = prefixSum.length;
-        int ans = 0;
+    int hist(int[]prefix){
+        int  n = prefix.length;
         Stack<Integer>st = new Stack<>();
-       for(int i = 0 ; i <= n ; i++) {
-          int curH = i == n ? 0 : prefixSum[i];
-            while(!st.isEmpty() && prefixSum[st.peek()] > curH ){
-                  int Height =  prefixSum[st.pop()];
-                  int width = st.isEmpty() ? i : i-st.peek()-1;
-                 ans = Math.max(ans,Height*width); 
+        int rect = 0;
+        for(int i = 0 ; i <= n ;i++){
+            int curH = i == n ? 0: prefix[i];
+            while(!st.isEmpty() && prefix[st.peek()] > curH){
+                    int height = prefix[st.pop()];
+                    int right = i;
+                    int left = st.isEmpty() ? 0 : st.peek()+1;
+                 rect = Math.max(rect,height*(right-left));   
             }
-          st.push(i);  
-       }
-      return ans; 
+           st.push(i); 
+        }
+       return rect; 
     }
     public int maximalRectangle(char[][] matrix) {
-      int n = matrix.length;
-      int m = matrix[0].length;
-      int[] prefixSum = new int[m];
-      int ans = 0;
-      for(int i = 0; i < n ;i++) {
-          for(int j = 0 ; j < m ; j++)  {
-             if(matrix[i][j] == '1') {
-                prefixSum[j] += 1;
-             }else{
-                prefixSum[j] = 0;
-             }
-          }
-         ans = Math.max(ans,Hist(prefixSum)); 
-      }
-      return ans;
+       int ans = 0 ;
+       int n = matrix.length;
+       int m = matrix[0].length;
+       int prefix[] = new int[m];      
+    for(int i = 0 ; i < n ;i++) {
+           for(int j = 0 ; j < m ;j++) {
+                 if(matrix[i][j] == '1'){
+                    prefix[j] +=1;
+                 }else{
+                    prefix[j] = 0;
+                 }
+           }
+         ans = Math.max(ans,hist(prefix));  
+    }
+       return ans;
     }
 }
+
+/**
+
+ */
