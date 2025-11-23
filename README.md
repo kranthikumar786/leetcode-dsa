@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0952-word-subsets) |
@@ -830,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
