@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1612-avoid-flood-in-the-city) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1307-ugly-number-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1307-ugly-number-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1539-kth-missing-positive-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
