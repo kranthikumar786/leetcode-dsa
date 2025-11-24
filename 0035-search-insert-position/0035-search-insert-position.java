@@ -4,18 +4,18 @@ class Solution {
      int r = nums.length-1;
      if(nums[r] < t) {return r+1;}
      int l = 0;
-     int p = 0 ;
+     //int p = 0 ;
        while(l <= r ){
             int m = l + ((r-l)>>1);
            if(nums[m] == t) return m;
             else if(nums[m] > t){
-                p = m;
+                //p = m;
                 r = m-1;
             }else{
                // p = m;
                 l = m+1;
             }
        }
-       return p;
+       return l;
     }
 }
