@@ -12,25 +12,28 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         
         int n = lists.length;
-        ArrayList<Integer>arr = new ArrayList<>();
+        // ArrayList<Integer>arr = new ArrayList<>();
+        PriorityQueue<Integer>minHeap = new PriorityQueue<>();
         for(int i = 0; i < n ;i++) {
               ListNode node = lists[i]; 
                     while(node != null){
-                   arr.add(node.val);
+                   // arr.add(node.val);
+                   minHeap.add(node.val);
                    node = node.next;
              }
         }
-        Collections.sort(arr);
+        //Collections.sort(arr);
         ListNode head = null, temp =null;
-        for(int i = 0 ; i < arr.size(); i++) {
+        //for(int i = 0 ; i < arr.size(); i++) {
+          while(minHeap.size() > 0){
               if(head == null){
-                 head = new ListNode(arr.get(i));
+                 head = new ListNode(minHeap.poll());
                  temp = head;
               } else{
-                temp.next = new ListNode(arr.get(i));
+                temp.next = new ListNode(minHeap.poll());
                 temp = temp.next;
               }
-        }
+           }
       return head;
 
         /**
