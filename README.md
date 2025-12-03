@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
@@ -783,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0085-maximal-rectangle) |
@@ -1016,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0148-sort-list) |
