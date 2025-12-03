@@ -21,6 +21,20 @@ class Solution {
     public boolean exist(char[][] board, String word) {
       int r = board.length;
       int c = board[0].length;
+      int wordSearch[] = new int[128];
+      int boardSearch[] = new int[128];
+       for(char ch : word.toCharArray()){
+           wordSearch[ch]++;
+       }
+       for(char [] row : board){
+            for(char ch : row){
+                boardSearch[ch]++;
+            }
+       } 
+       for(int i = 0 ; i < 128; i++) {
+            if(boardSearch[i] < wordSearch[i])
+                return false;
+       }
       visited = new boolean [r][c];
       for(int i = 0 ; i < r; i++){
            for(int j = 0 ; j < c ; j++){
