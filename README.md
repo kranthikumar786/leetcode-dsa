@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0085-maximal-rectangle) |
@@ -1216,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1263,6 +1266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
@@ -1619,6 +1623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1160-letter-tile-possibilities) |
