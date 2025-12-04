@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0647-palindromic-substrings) |
@@ -1039,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -1094,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -1592,6 +1595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0460-lfu-cache) |
@@ -1623,6 +1627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
