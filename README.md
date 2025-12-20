@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-longest-duplicate-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1122-longest-duplicate-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1813-maximum-erasure-value) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
