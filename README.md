@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0474-ones-and-zeroes) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0867-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0496-next-greater-element-i) |
