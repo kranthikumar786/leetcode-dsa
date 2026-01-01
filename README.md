@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
@@ -1568,6 +1569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0189-rotate-array) |
