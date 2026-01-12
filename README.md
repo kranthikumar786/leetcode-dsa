@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1293-three-consecutive-odds) |
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
@@ -1610,6 +1611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1307-ugly-number-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1307-ugly-number-iii) |
 | [1390-four-divisors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1890,6 +1892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0830-largest-triangle-area](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0830-largest-triangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3623-count-number-of-trapezoids-i) |
