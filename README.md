@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -838,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
