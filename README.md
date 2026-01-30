@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3194-find-words-containing-character) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2915-count-of-interesting-subarrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1244-distinct-echo-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1244-distinct-echo-substrings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
@@ -941,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1409,6 +1413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1979,5 +1984,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
