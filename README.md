@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -850,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
@@ -1035,6 +1037,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
@@ -1681,6 +1684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0189-rotate-array) |
