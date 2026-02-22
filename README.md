@@ -859,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0868-binary-gap](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
