@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-longest-happy-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1049,6 +1050,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
@@ -1689,6 +1691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
