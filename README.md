@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2326-sum-of-scores-of-built-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2326-sum-of-scores-of-built-strings) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3684-substring-matching-pattern](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3684-substring-matching-pattern) |
 ## Two Pointers
 |  |
@@ -1176,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
