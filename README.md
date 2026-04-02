@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1024,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1511,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3546-equal-sum-grid-partition-i) |
