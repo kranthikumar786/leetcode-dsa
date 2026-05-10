@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1031,6 +1032,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2573-find-the-string-with-lcp) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2818-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2818-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
