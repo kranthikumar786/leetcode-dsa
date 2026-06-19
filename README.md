@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
