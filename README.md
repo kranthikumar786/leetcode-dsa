@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1980-find-unique-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
