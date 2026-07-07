@@ -952,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0868-binary-gap](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1878,6 +1879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0826-soup-servings) |
