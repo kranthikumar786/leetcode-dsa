@@ -1981,6 +1981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -2099,6 +2100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
