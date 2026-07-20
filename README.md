@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1181,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1642-water-bottles) |
@@ -1601,6 +1603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0945-snakes-and-ladders) |
 | [1234-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1234-number-of-paths-with-max-score) |
+| [1260-shift-2d-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
