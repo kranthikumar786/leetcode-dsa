@@ -2043,6 +2043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3630-total-characters-in-string-after-transformations-ii) |
