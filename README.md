@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -808,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2618-maximize-the-minimum-powered-city](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
