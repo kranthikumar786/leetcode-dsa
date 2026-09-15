@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2573-find-the-string-with-lcp) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2540-minimum-common-value) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1138,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2562-count-ways-to-build-good-strings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2573-find-the-string-with-lcp) |
@@ -1311,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
