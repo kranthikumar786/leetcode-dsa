@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0038-count-and-say) |
@@ -1081,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0053-maximum-subarray) |
@@ -2190,6 +2192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
@@ -2425,6 +2428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
