@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0402-remove-k-digits) |
@@ -1597,6 +1598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0407-trapping-rain-water-ii) |
@@ -2199,6 +2201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1160-letter-tile-possibilities) |
