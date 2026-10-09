@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1225,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1316,6 +1318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -2443,5 +2446,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
