@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3797-design-spreadsheet) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
