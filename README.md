@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3797-design-spreadsheet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1075,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3676-smallest-number-with-all-set-bits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
@@ -1448,6 +1451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3721-longest-balanced-subarray-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -1838,6 +1842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -1925,6 +1930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2336,6 +2342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2280-count-good-triplets-in-an-array) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3438-peaks-in-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3438-peaks-in-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -2354,6 +2361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
