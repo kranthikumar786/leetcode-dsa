@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0498-diagonal-traverse) |
@@ -1469,6 +1470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0759-set-intersection-size-at-least-two) |
@@ -2037,6 +2039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0371-sum-of-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0679-24-game](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0826-soup-servings) |
