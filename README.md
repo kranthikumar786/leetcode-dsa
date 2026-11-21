@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3396-valid-word) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -987,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3312-sorted-gcd-pair-queries) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1863,6 +1866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1951,6 +1955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/kranthikumar786/leetcode-dsa/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
