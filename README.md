@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1364-tuple-with-same-product) |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1184-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -2080,6 +2082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1307-ugly-number-iii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1307-ugly-number-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -2226,6 +2229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0937-online-stock-span) |
 | [1294-range-frequency-queries](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1294-range-frequency-queries) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1622-fancy-sequence) |
@@ -2257,6 +2261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/kranthikumar786/leetcode-dsa/tree/master/0937-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
