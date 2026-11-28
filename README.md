@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3886-sum-of-sortable-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1413,6 +1414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1573,6 +1575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3748-sort-matrix-by-diagonals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1624,6 +1627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kranthikumar786/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quickselect
 |  |
 | ------- |
